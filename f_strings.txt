@@ -1,0 +1,5847 @@
+!This program cannot be run in DOS mode.
+.text
+P`.data
+.rdata
+`@.eh_fram
+0@.bss
+.idata
+.CRT
+.tls
+$)`C
+$lTC
+$p`C
+UWVS
+T$J
+;T$tj
+;T$u
+t$+t$
+L$f
+L$E
+[^_]
+UWVS
+,[^_]
+UWVS
+H09H4v
+L$,#4
+I9L$
+9X4v
+I9L$ 
+9H4v
+I9L$ 
+9X4v
+l$(;h(
+<[^_]
+9X4v
+l$(;h(
+\$(E
+UWVS
+D$;
+[^_]
+UWVS
+,[^_]
+,[^_]
+UWVS
+[^_]
+;D$$s
+UWVS
+[^_]
+[^_]
+UWVS
+D$9D$
+([^_]
+UWVS
+,[^_]
+,[^_]
+UWVS
+,[^_]
+,[^_]
+ [^_
+ [^_
+$9aC
+UWVSP
+[^_]
+|$`PK
+D$h9
+\$@f
+D$ff
+D$p1
+t$8;V
+v8;^
+N ;n(
+F";D$@t
+L$8;Q
+T$<9
+9t$0
+9D$0
+L$D9
+T$L9
+D$<;D$L
+l$P9D$L
+D$,9
+9t$0~E
+t$D1
+9t$L
+D$H9D$D
+\$0K
+;D$0
+L$D9
+T$@9
+D$<;D$@
+l$P9D$@
+D$\9
+;t$0}E
+t$D1
+9t$@
+D$H9D$D
+UWVSP
+D$$1
+[^_]
+[^_]
+UWVS
+l$$1
+C;\$
+<[^_]
+<[^_]
+UWVS
+L$1
+D$\J
+[^_]
+\$DH
+9K4v
+D$2%
+P[^_
+UWVS
+[^_]
+[^_]
+UWVS
+9|$ w
+D$TJ
+U09U4v
+E09E4v
+U09U4v
+U09U4v
+9]4v
+t$$9t$ 
+M09M4v
+w\;t$$
+9U4v
+t$$9t$ 
+[^_]
+\$HH
+$laC
+UWVS
++C@;C$
+9k4v
+C0+D$
+,[^_]
++K@;K$
+s<Ou
+G;{<r
+v%9k4v
+9k4v
+UWVS
+;l$8v
+T$()l$8
+^ 9T$<
++\$<
+l$<)
+A;L$$u
+)\$ 
+|$09|$ v
+L$D9L$@t
+9l$0
+T$DJ
+F(;D$dw1
++D$l
+|[^_]
+\$$+|$4
+@;D$,
+\$ f
+D$TJ
+L$Tf
+;l$,
+\$4f
+l$Hf
+D$P)
+l$ 9
+D$HH
+T$P)
+T$$9
+T$P)
+T$$9
+T$Rf;
+D$` 
+(f9*
+T$DJ
++D$T
+9D$H
+\$,9
+|$H9|$,
+)|$ 
+D$09D$ 
+|[^_]
+)\$ 
+|$09|$ v
+$`bC
+UWVS
++D$,9D$(v
+D$(9D$@w$
+D$D9
+L$4f
+L$0u
+t$8F
+;T$,
+)T$,;t$H
++T$,9
+L$@I
+L$4f
+L$ 1
+8L$O
+;T$,v
++D$,9D$(v
+\[^_]
+\[^_]
+L$0u
+N;D$Hw
+UWVS
++C@;C$
+9k4v
+T$ t
+9S4v
++K@;K$
+9k4v
+C09C4v
+C<Nu
+9C4v
+F;s<r
+C0+D$(t6
+<[^_]
+v#9k4v
+9k4v
+9T$(
+9K4v
+9K4v
+9C4v
+UWVS
+D$41
+;\$u
+)T$4
+[^_]
+[^_]
+UWVS
+D$ 1
+)T$ 
+tL;k
+[^_]
+t$09
+t$09t$
+H#D$
++l$(
+D$0+D$
+H#D$
++l$(
+t$ +
+t$89t$4
+|$ +
+L$<9L$ 
+D$0+D$
+T$<+T$ J
+D$0+D$
+L$<+L$ I
+t$09
+9l$(v+
+t$09t$
+9l$(w
+J#T$
++l$(
+|$ +
+t$09
+|$09|$
+J#T$
+T$d1
+T$ +
+|$09|$
+9t$0
+L$09L$
+t$ +
+|$09
+t$09
+t$09t$
+D$09
+L$09L$
+9t$0
+t$09
+t$09t$
+t$09
+t$09t$
+|$09
+T$09
+t$09t$
+t$09
+T$<9T$ 
+D$8+D$4#D$,
+t$09
+t$09t$
+\$09
+t$09
+t$ C
+t$ +
+D$<9D$ 
+|$ K
+D$09D$
+D$09
+D$09D$
+D$09
+|$<9|$ 
+T$ +
+t$09
+9l$(
+t$09t$
+9l$(w
+t$09
+9l$(
+t$09t$
+9l$(w
+T$09
+D$8+D$4#D$,
+9D$ v
+9T$<
+9\$4
+t$09t$
+L$ +
+L$ +
+|$ +
+t$ +
+T$ +
+|$ +
+T$<+T$ 
+|$ )
+D$ +
+|$ +
+L$(9
+|$ +
+L$ +
+D$0+D$
+D$LH
+T$ +
+T$D=
+D$D9D$D
+D$Df
+UWVS
+L$ f
+S)S
+8[^_]
+C)C
+S)S
+8[^_]
+8[^_]
+D$H<
+D$L,
+`[^_
+T$L1
+UWVS
+[^_]
+UWVS
+D$,1
+[^_]
+UWVS
+CX)C\
+,[^_]
+,[^_]
+,[^_]
+,[^_]
+UWVS
++T$L
+\[^_]
+t$ f
++T$L
+D$<9D$4u
+9t$8t
+\[^_]
+\[^_]
+\[^_]
+UWVS
+VUUU
+[^_]
+D$0H
+p[^_
+p[^_
+p[^_
+@[^_
+@[^_
+UWVS
+L[^_]
+L[^_]
+@[^_
+@[^_
+UWVS
+t$,F
+D$4)
+D$4H
+EX)E\
+[^_]
+ElHu
+D$XP
+D$YN
+D$ZG
+D$cI
+D$dH
+D$eD
+D$fR
+D$|I
+D$}D
+D$~A
+t$H9
+[^_]
+UWVS
+\[^_]
+\[^_]
+UWVS
+D$&%
+[^_]
+[^_]
+[^_]
+[^_]
+@[^_
+UWVS
+t$$1
+C 9D$
+E;l$
+.</t
+@;D$
+E;l$
+L[^_]
+@;D$
+L[^_]
+UWVS
+|$pPK
+T$4;W
+[^_]
+[^_]
+D$h1
+D$l1
++D$8
+T$4;T$Tr
+;L$Pv
+T$,9
+T$<;
+t$8;
+L$(u
+|$L)D$0
+T$41
+UWVS
+[^_]
+[^_]
+UWVS
+T$D;S
+,[^_]
+,[^_]
+UWVS
+D$@u[f
+[^_]
+[^_]
+D$x1
+T$4;T$Lr
+;l$Hv
+T$$9
+l$X1
+D$d;D$|u
+D$Df
+;\$Du
+D$d1
+L$T;
+D$P;
+T$L9T$4r
+L$H9L$0v
+L$`f
+;L$8u
+9D$D
+L$T)t$0
+D$T3
+L$P3
+D$41
+D$D9
+|$,)D$0
+UWVS
+[^_]
+[^_]
+UWVS
+,[^_]
+,[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+UWVS
+[^_]
+UWVS
+D$2%
+\[^_]
+UWVS
+[^_]
+l$Du
+t+<\t
+D$pL
+L(.;N
+L$|9
+D$`f
+$HdC
+UWVS
+[^_]
+|$H!
+D$x1
+L$`f
+;L$Hu
+D$H1
+D$`f
+L$L1
+T$DuY
+)l$H
+T$Dtx
+$HdC
+UWVS
+[^_]
+D$Dt
+|$pPK
+|$T)\$H
+T$Ht>
+D$Xu
+L$,9
+T$@;U
+$HdC
+L$@;M
+UWVS
+[^_]
+UWVS
+,[^_]
+,[^_]
+UWVS
+[^_]
+[^_]
+T$,)
+t$(;t$$rD
+UWVS
+<:tB
+t!<\u
+[^_]
+UWVS
+l[^_]
+l[^_]
+D$@,
+D$<<
+UWVS
+D$2%
+[^_]
+[^_]
+[^_]
+D$T1
+D$p,
+D$l<
+UWVS
+,[^_]
+,[^_]
+;/tp
+;/tl
+UWVS
+t$(f
+L[^_]
+UWVS
+<[^_]
+<[^_]
+|$.f
+l$.9
+UWVS
+,[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+<[^_]
+<[^_]
+ [^_
+ [^_
+UWVS
+<[^_]
+<[^_]
+UWVS
+\[^_]
+$4sC
+ [^_
+D$,1
+D$,1
+UWVS
+|[^_]
+|$>f
+UWVS
+L[^_]
+UWVS
+D$`
+<[^_]
+UWVS
+[^_]
+|$.f
+UWVS
+<[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+[^_]
+[^_]
+UWVS
+L[^_]
+UWVS
+<[^_]
+|$*f
+UWVS
+|$*f
+<[^_]
+UWVS
+B9Vv8
+B9Vw
+,[^_]
+UWVS
+[^_]
+UWVS
+[^_]
+UWVS
+|[^_]
+ [^_
+ [^_
+</tA<\t=
+/t1H
+UWVS
+|$,
+D$.H
+L[^_]
+D$<<
+UWVS
+<[^_]
+tEVS
+UWVS
+t$$f
++D$
+D$(+\$0
+\$4+D$,
+<$)|$$
+L$ )
++D$
+D$$f
+D$$f
+D$ )
+T$+|$$
+|$,+T$ 
+t$8)t$(
+T$$f
+[^_]
+t$ f
+l$$f
+UWVS
+\$ 1
+[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+;T$ u
+[^_]
+[^_]
+UWVS
+9l$t
+[^_]
+UUUU
+%UUUU
+3333
+%3333
+UWVS
+[^_]
+[^_]
+UWVS
+\$P9
+L$T9L$
+<[^_]
+UWVS
+([^_]
+|$ 9|$
+([^_]
+UWVS
+[^_]
+[^_]
+[^_]
+UWVS
+,[^_]
+,[^_]
+UWVS
+T$4f
+T$8f
+T$<f
+T$@f
+T$Df
+T$Hf
+T$Lf
+T$Pf
+T$Tf
+T$Xf
+T$\f
+T$`f
+T$df
+T$hf
+,E;l$
+[^_]
+[^_]
+UWVS
+D$dO
+D$F9
+@CF9
+D$d9
+L$<1
+9L$H
+|[^_]
+|$ f
+\$,+
+t$ +
+(E;l$(
+@;D$
+L$ u
+L$@f
+L$ u
+9D$(
+;\$(
+T$(+
+T$0#L$0
+B;T$$r
+;D$ 
+;t$ 
+B;T$$r
+9L$ 
+;\$ 
+t$ +
+D$,#T$,
+@;D$$r
+L$(+
+\$ +
+l$(f
+@9D$$w
+l$(f
+D$,#T$,
+@9D$$w
+9D$(
+;T$(
+\$(+
+|[^_]
+|[^_]
+|[^_]
+UWVS
+D$<1
+l$09\$ u
+D$89D$Xu
+[^_]
+[^_]
+UWVS
+,[^_]
+,[^_]
+UWVS
+,[^_]
+UWVS
+,[^_]
+UWVS
+T$,B
+[^_]
+UWVS
+D45F;t$
+[^_]
+UWVS
+L$ 9
+L[^_]
+N#t$
+L[^_]
+L$tb
+UWVS
+[^_]
+UWVS
+,[^_]
+,[^_]
+UWVS
+|[^_]
+7F;t$ t$
+7F;t$ u
+D$$+D$ 
+|[^_]
+|[^_]
+|[^_]
+|[^_]
+|[^_]
+l$$A
+UWVS
+[^_]
+D$,H
+;\$ tL9
+;\$ u
+D$$)
+[^_]
+VUUU
+|$, 
+9T$0
+;T$$
+|$(f
++\$$
+;L$$
+L$(9
+[^_]
+D$0)
+|$, 
+t$0#T$X
+L$ f
+T$<#T$\
+T$<#T$`
+T$<#T$P
+T$@9U
+9T$t
+;T$p
+L$09M
+L$09M
+D$t)
+D$\9D$Xt
+D$`9D$X
+UWVS
+SPB8
+T$(;
+T$#@
+T$"@
+SPB8
+\[^_]
+UWVS
+T$XB
+;D$(
+L$ 9L$(
+t$01
+L$ 9L$(
+t$@1
+D$D9D$<
+[^_]
+;\$D}
+D$ 1
+;t$(
+[^_]
+T$01
+L$ @
+L$^;D$ 
+;t$(
+D$$F
+;D$(
+[^_]
+[^_]
+[^_]
+UWVSP
+[^_]
+;L$X
+|$,f
+[^_]
+|$(#|$
+9|$,
+;|$4
+;|$ 
+;|$ t
+D$ uh
+L$$;L$
+;|$ 
+;L$$
+D$$)
+UWVS
+=SPB8
+SPB8
+T$,9
+T$09T$(
+u=Nt
+[^_]
+9|$(
+|$ ;D$<
+\$DF
+L$8@
+L$(@
+L$ 9
+L$ 9
+t$|1
+;l$ 
+|$,G
+;\$@
+)\$@
+9L$p
+\$<9
+C9\$@
+9l$(
+D$(;D$8~
+t$(1
+)D$8
+L$(@
+9L$$
+9L$$
+9L$$
+;L$$|
+9L$$
+9L$$
+;L$$|
+9L$$
+9L$$
+;L$$|
+T$P@
+L$t@
+T$`@
+L$x@
+T$<9T$(
+@;D$,u
+\$01
+L$,9L$0
+|$0 
+D$0H
+T$4@
+|$Pf
+;t$,t
+9T$8
+L$(I
++|$ 
++\$ 
+9D$,t8
+\$(9\$$
+D$ 1
+T$L9
+G;|$4
+9T$p
+9D$x
+;|$0|
+L$,B
+|$,9
+L$H9
+L$p9
+L$p9
+L$49
+L$D9
+L$D9
+L$(9
+L$(9
+;T$(
+\$,B
+D$(H
+;T$(
+T$x@
+L$`@
+T$t@
+L$P@
+WVSP
+UWVS
+<[^_]
+<[^_]
+T$ 9
+89L$
+D$$1
+D$(1
+UWVS
+[^_]
+[^_]
+[^_]
+WVSP
+UWVSP
+[^_]
+[^_]
+D$@+D$D
+9T$,v
+|$(G
+t$09
+D$(B
+L$49L$(
+[^_]
+D$(@
+9D$,
+8;t$4tC
+t$<;u
+t$<;u
+[^_]
+l$Hf
+A9L$,
+D$@+D$D
+9T$(v
+\$09\$,
+t$<9t$8
+D$H9\$H
+D$T9\$T
+9D$L
+D$P9T$P
+t$T9
+UWVS
+[^_]
+[^_]
+D$,t
+T$()
+D$,t
+T$()
+UWVS
+|$41
+DNEI
+IBgC
+TADI
+9t$4
+L$49
+DNEI
+;L$P
+ETLP
+SNRt
+RDHI
+[^_]
+L$49
+[^_]
+L$49L$0
+R;D$4
+G;|$0t3
+G;|$0u
+t$L9t$H
+;t$Hv
+9t$4
+[^_]
+;T$4
+D<hG9{
+[^_]
+L$TI
+D$4)
+D$4)
+UWVS
+,[^_]
+,[^_]
+UWVS
+D$,9
+T$09T$$
+\[^_]
+\[^_]
+UWVS
+l$$1
+DNEI
+<[^_]
+L$$9
+DNEI
+ETLP
+SNRt
+RDHI
+IBgCt$
+TADI
+9D$$
+L$$9
+<[^_]
+<[^_]
+R;D$$
+E;l$
+;T$$
+L$$)
+UWVS
+[^_]
+[^_]
+D$,t
+T$()
+UWVS
+[^_]
+ [^_
+UWVS
+,[^_]
+UWVS
+|$Vf
+|$Vf
+D$Hf
+|[^_]
+UWVS
+D$ 
+\[^_]
+D$ 
+UWVS
+,[^_]
+UWVS
+,[^_]
+UWVS
+\[^_]
+D$,1
+D$(1
+UWVS
+<[^_]
+UWVS
+$PB
+|$>f
+UWVS
+T$1
++L$
+z;|$
+9<$u
+9<$u
+9<$u
+[^_]
+t?[^_
+p[^_
+p[^_
+UWVS
+[^_]
+94$~
+UWVS
+L$`1
+L$l1
+:98~
+9D$\~
+t$Px
+L$P9L$\
+9D$P
+T$L9
+\$L9t$X
+L$X)
+t$d1
+T$L1
+t$|9t$X
+T${f
+9T$T
+[^_]
++T$H
+9T$
+UWVS
+[^_]
+UWVS
+D$>u/
+;D$d
+L[^_]
+D$01
+;l$d
+;l$0
+T$0)
+L$d9L$4
+T$09
+L[^_]
+;D$d
+9T$d
+t$d)
+9D$d
+9D$d~
++|$8
+9T$d
+9\$d
+|$>
+T$d+T$4
+D$d)
+UWVS
+[^_]
+[^_]
+UWVS
+[^_]
+[^_]
+UWVS
+;D$hu
+@9D$x
+\$Pf
+|$lf
+|$p9D$h
+@9D$x
+[^_]
+T$hG
+[^_]
+D$h@
+D$t 
+D$t@
+\$lf
+UWVS
+[^_]
+UWVS
+fHt1
+[^_]
+9$r
+|$X
+|$X
+UWVS
+D$hU
+|$>f
+D$lP
+|$>f
+D$hV
+|$>f
+D$lS
+|$>f
+L[^_]
+L[^_]
+UWVS
+l[^_]
+UWVS
+;\$(u
+;\$(u
+D$<)
+L[^_]
+D$<)
+L[^_]
+UWVS
+\$x1
+T$x9T$d
+[^_]
+T$`1
+T$x9T$d
+UWVS
+\$D)
+D$H)
+l[^_]
+UWVS
+|$>f
+|$>f
+l[^_]
+UWVS
+l[^_]
+UWVS
+\[^_]
+UWVS
+T$H9
+T$49
+L$8f
+D$L9D$D|
+9T$@
+|$h+|$`
+l$l+l$d
+T$4B
+T$D9
+[^_]
+[^_]
+UWVS
+|$^f
+|$^f
+p[^_]
+;D$
+UWVS
+;D$Lu
+;T$Pt ;D$H
+4[^_]
+;D$H
+9D$H
+T$H)
+UWVS
+;D$4u
+;D$8u
+;D$<u
+;D$@u
+[^_]
+UWVS
+t$$1
+|$(1
+-3D$,
+[^_]
+ [^_
+ [^_
+ [^_
+UWVS
+|$.f
+L[^_]
+|$*f
+UWVS
+|$~f
+[^_]
+D$ 
+D$=
+UWVS
+,[^_]
+,[^_]
+,[^_]
+,[^_]
+$* G
+$6 G
+$? G
+$E G
+$O G
+$] G
+$l G
+$z G
+$&!G
+$-!G
+$5!G
+$A!G
+$K!G
+$V!G
+$d!G
+$s!G
+$!"G
+$2"G
+$F"G
+$R"G
+$`"G
+$n"G
+$|"G
+$&#G
+$/#G
+$9#G
+$B#G
+$L#G
+$U#G
+$_#G
+$k#G
+$w#G
+$"$G
+$0$G
+$;$G
+$E$G
+$M$G
+$U$G
+$]$G
+$e$G
+$q$G
+$}$G
+$(%G
+$3%G
+$?%G
+$J%G
+$V%G
+$a%G
+$m%G
+$u%G
+$!&G
+$-&G
+$9&G
+$C&G
+$P&G
+$]&G
+$h&G
+$v&G
+$$'G
+$3'G
+$A'G
+$P'G
+$^'G
+$m'G
+${'G
+$"(G
+$/(G
+$9(G
+$C(G
+$L(G
+$U(G
+$_(G
+$n(G
+${(G
+$*)G
+$7)G
+$E)G
+$R)G
+$`)G
+$m)G
+${)G
+$**G
+$8*G
+$E*G
+$S*G
+$]*G
+$h*G
+$r*G
+$}*G
+$%+G
+$2+G
+$=+G
+$I+G
+$T+G
+$`+G
+$k+G
+$w+G
+$,G
+$#,G
+$/,G
+$:,G
+$F,G
+$Q,G
+$g,G
+$v,G
+$1-G
+$E-G
+$S-G
+$a-G
+$p-G
+$z-G
+$!.G
+$1.G
+$A.G
+$N.G
+$^.G
+$r.G
+$(/G
+$B/G
+$\/G
+$t/G
+$,0G
+$?0G
+$Q0G
+$d0G
+$v0G
+$/1G
+$B1G
+$T1G
+$g1G
+$y1G
+$ 2G
+$12G
+$E2G
+$W2G
+$c2G
+$p2G
+$|2G
+$3G
+$ 3G
+$33G
+$G3G
+$Z3G
+$n3G
+$"4G
+$74G
+$O4G
+$]4G
+$l4G
+$z4G
+C;\$
+t09D$ 
+D$$9
+D$$t
+$(JG
+-<KG
+5<KG
+$\JG
+$ 3C
+<"tS
+[^_]
+<"t(
+$89C
+$(9C
+$ KG
+[^_]
+[^_]
+L$r
+$PaC
+UWVS
+t$ 1
+D$PP
+D$QK
+D$8f
+L$^f
+D$:f
+D$pf
+D$*f
+L$ ;K
+[^_]
+< us
+Y[^]
+?XXXX PNG chunk not known
+libgcc_s_dw2-1.dll
+__register_frame_info
+libgcj-13.dll
+_Jv_RegisterClasses
+__deregister_frame_info
+src/defer.c
+(idx + 1) != (readIdx & BUFFER_MASK)
+src/lib/miniz.c
+d->m_huff_code_sizes[0][s_tdefl_len_sym[match_len]]
+bits <= ((1U << len) - 1U)
+d->m_huff_code_sizes[1][sym]
+d->m_huff_code_sizes[0][lit]
+pArray->m_element_size
+d->m_pPut_buf_func
+code < TDEFL_MAX_HUFF_SYMBOLS_2
+!d->m_output_flush_remaining
+d->m_pOutput_buf < d->m_pOutput_buf_end
+max_match_len <= TDEFL_MAX_MATCH_LEN
+(match_len >= TDEFL_MIN_MATCH_LEN) && (match_dist >= 1) && (match_dist <= TDEFL_LZ_DICT_SIZE)
+d->m_lookahead_size >= len_to_move
+(cur_match_len >= TDEFL_MIN_MATCH_LEN) && (cur_match_dist >= 1) && (cur_match_dist <= TDEFL_LZ_DICT_SIZE)
+lookahead_size >= cur_match_len
+9.1.15
+IEND
+src/fs.c
+mz_zip_reader_init_file(&p->zip, path, 0)
+(local_dir_header_ofs & (pZip->m_file_offset_alignment - 1)) == 0
+unknown error
+QkkXa
+stream end
+need dictionary
+file error
+stream error
+data error
+out of memory
+buf error
+version error
+parameter error
+
+
+file or directory does not exist
+could not make directory
+could not delete file
+could not write file
+could not read file
+could not open file
+no write path set
+bad filename
+bad path
+failure
+success
+audio is already inited
+could not init audio
+could not open audio
+_onAudio
+too many upvalues
+init
+F0.0.0
+too many upvalues
+getVersion
+system
+time
+graphics
+audio
+mouse
+Texture
+Font
+Shader
+Sound
+Font
+could not render text
+error when loading surface
+could not open file '%s'
+could not load font
+src/m_font.c
+luaL_newmetatable(L, CLASS_NAME)
+too many upvalues
+__index
+__gc
+fromFile
+fromString
+fromEmbedded
+render
+getWidth
+getHeight
+0DSIG
+tGDEF
+GPOS
+8GSUB
+OS/2
+`cmap)
+cvt 
+fpgm~a
+gasp
+glyft8
+head
+6hhea
+$hmtx
+kernT+
+6loca)
+Vmaxp
+ names
+post
+&+prepC
+1ASC
+ " & 0 3 : < D p y 
+! !"!&!.!^"
+"+"H"`"e%
+   & 0 2 9 < D p t 
+! !"!&!.!["
+"+"H"`"d%
+@G[ZYXUTSRQPONMLKJIHGFEDCBA@?>=<;:9876510/.-,('&%$#"!
+Fa#E#aH-, E
+hD-,E#F`
+&#HH-,E#F#a
+&#HH-,E#F`
+&#HH-,E#F#a
+&#HH-,
+<-, E# 
+ZQX# 
+D#Y 
+QX# 
+MD#Y 
+&QX# 
+D#Y!!-,  E
+E`D-,
+C#Ce
+-, E
+%Ead
+PQXED
+!!Y-,I
+#D-, E
+C`D-,
+-, i
+b`+d#da\X
+aY-,
+-,Ee
+,#DE
++#D-,KRXED
+!!Y-,KQXED
+!!Y-,
+RX!!!!!
+F#F`
+F# F
+pE` 
+:Y-, E
+%FRK
+%F ha
+%?#!8
+Y-, E
+%FPX
+%F ha
+%?#!8
+-,!!d#d
+b-,!
+QXd#d
+@/+Y
+`-,!
+QXd#d
+`-,d#d
+b`#!-,KSX
+%Id#Ei
+ 9/Y-,KSX 
+%Idi 
+%Id#a
+ 9# 9//Y-,E#E`#E`#E`#vh
+b -,
+H+-, E
+@D E
+!!Y-,E
+0/E#Ea`
+`iD-,KQX
+!!Y-,KQX 
+%EiSXD
+!!Y-,E
+`iD-,
+/ED-,E# E
+`D-,E#E`D-,K#QX
+YDD-,
+ `f X
+aY#XeY
+)#D#
+!!!!!Y-,
+CTXKS#KQZX8
+!!!!Y-,
+ `f X
+%#B<
+`#B< X
+) EeD
+!Y!!!!!!!-,
+%  F
+%EH!!!!-,
+%CH!!!-,E# E
+P X#e#Y#h 
+@PX!
+@Y#XeY
+`D-,KS#KQZX E
+!!Y-,KTX E
+!!Y-,KS#KQZX8
+!!Y-,
+!KTX8
+!!Y-,
+!!!!Y-,
+!!!Y-,
+!!!!Y-,
+!!!Y-, 
+KQZX#8
+!!Y-,
+!Y-,
+F#F`#Fa# 
+pE`h:-, 
+#SX<
+!Y-,KRX}
+zY-,
+KTB-,
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BYYYYYY
+CTX@
+YYYBBBBB-,E
+h#KQX# E d
+@PX|Yh
+`YD-,
+CT[X!#
+Y+-,
+!H U 
+U%3$U
+#3"U
+TS++K
+UZ[X
+BYss++^stu+++++t+st+++++++++++++st+++
+,y
+ * ; L ^ o 
+!(!8!H!X!i!z"
+"!"1"A"R"c"t"
+#/#?#O#`#
+$,$<$M$]$
+%0%@%Q%a%r%
+&:&K&[&l&|&
+'*';'G'W'h'y'
+("(3(D(U(f(w(
+)L)])n)y)
+*-*>*N*Z*e*v*
++'+8+H+Y+i+{+
+,i,z,
+-.->-I-T-e-u-
+.%.6.F.W.g.y.
+/+/;/L/]/n/~/
+1'181I1Y1d1o1
+2T2{2
+3N3_3g3x3
+4"4*424
+525:5q5y5
+:,:4:_:
+<%<]<
+@7@?@
+B<BDBLBTB\BdBlBtB
+C+C[C
+D#DaD
+EVE^E
+F4F|F
+G#G[GkG
+HIHQHuH}H
+J4J}J
+L%L5L
+MXM`MpM
+N/N@NRNdNuN
+O:OiO
+PZPzP
+Q$Q,Q4QWQ{Q
+UKUbUyU
+V>VcV
+W2WbW
+X,X>XPX}X
+Y!Y@YuY
+ZMZnZ
+['['['['['['['['['['['['['['\q\
+^-^9^E^W^
+`1`:`C`L`z`
+g0g8g@g
+h/hghyh
+l:l}l
+m3m`m
+qCq{q
+x4x<xox
+y0yqy
+z0zsz
+{C{z{
+}-}5}F}W}
+/2/3
+/3/310
+x:?@94D
+FB@G?
+?(i)
++)h)
+/3?3
+99//]]
+f@5'
+99//
+3333
+#5"&'5
+&&546753
+Zocf
+N2_{eHY,
+"".(
+?3?3??
+99//
+#"&54632
+32654&#"
+#"&54632
+JTTPPTTJ
+#*+.+-#
+673IY3
+** /
+6654&#"
+%467.
+54632
+6673
+egVYo
+Ko\,
+E}XK
+SMa`
+DYfAu
+f_bj9
+?(i)
+/]3+
+9910%
+9910
+31074632
+=9:AB93CjCEECAF?
+9910
+3310!#
+310!!5
+54&#"
+'632
+!"&'5
+!#532654&#"
+'6632
+kz4FpGQ
+#"'5
+3265
+3632
+2654&#"
+HqAMc
+310!
+) ) KY))
+#"&54%&&546
+32654&'
+6654&
+gxd\
+!"'5
+#"&54
+326654&&
+htDPf
+31074632
+=9:AB93Cv{B93CjCEECAF?
+310%
+w{B9:=
+910%
+54676654&#"
+'632
+'L~eA
+x:?@94D
+TstRfo%1
+IocnVr_!
+FB@G?
+E@"#.6
+/3?3
+99//
+9233
+#"&'#
+#"&54632
+32654
+hQWb
+910!
+V}`s
+!2654&##
+!2654&#
+310!!
+310!#
+?3?3
+310!#
+310!!57
+%bb%
+3265
+^6GMcg
+?3?3
+310!#
+3103
+?33?3
+310!
+?3?3
+310!#
+32654&##
+?3?+
+%32654&##
+# '5
+32654&&'&&54632
+sLaR4I
+LtgLaQ1R
+310!#
+3265
+9910
+P:"$:
+?3?33
+9910!#
+?3?3
+910!#
+310!!5
+?3?3
+9910
+?3?3
+9910
+9910
+#&&'53
+G@%"
+310!'#
+#"&5
+%754&#"
+'6632
+%2655
+msZ^
+#"&'#
+32654&
+<#w
+&&# 
+310%#
+#%26554&#"
+??3+
+#575
+aWu+`D^Z
+n@>+
+(?GY(
+99++
+!"&5467&&5467&&54632
+32654&##"
+3254#"
+1+jJZ
+t*9@EUk
+8U-+
+P5<Z*#
+Y\}kYEl
+?3??+
+3310!
+4&#"
+36632
+)U8O[
+310!#
+4632
+8*(::(*8
+)9568877
+3265
+4632
+#"&+_;ECNI
+8*(::(*8
+]9568877
+3310
+310!#
+?33??3+
+310!
+4&#"
+4&#"
+3663 
+36632
+?3??+
+310!
+4&#"
+36632
+32654&#"
+???+
+33310
+"&'#
+36632
+32654&
+OR`V
+310%26754&#"
+#"'5
+32654&'.
+54632
+vx-d
+(.SU@[>9UlK
+DJA,>85G
+310%267
+#5773
+3265
+#"&5
+??39
+9910!
+?3?33
+9910!
+3667
+?3?3
+?2?+
+#"'5
+3277
+LJ7D
+310!!5
+310%
+4&#5665
+4'52
+5665
+otnq
+9910
+5632
+3267
+#"&'&&
+DqYBb/6
+H~HKZ
+n!  
+#"&54632
+y<<?93F
+G@?H@
+99//
+310%
+!5655#53
+/33/3
+47'7
+'7&7
+32654&#"
+99//]
+!5!5!5!
+??99//
+C@&2
+!'GY!
+467&&54632
+&&#"
+#"'5
+32654&&'.
+654&'
+VNJT
+Ltt{
+%(oUy
+;@<T7D
+%-LG.::+4ZrbMi=
+PoSp9
+4632
+#"&%4632
+55%&77&%5
+}5%%77%%5
+q4..421124..4211
+F@''
+?3?3
+99//]]
+#"&54632
+V}0eF
+#"&5467754#"
+'632
+3255
+dh+r
+!Tacffi
+3`8iy
+/3/3
+]@3'
+?3?3
+99//]]
+32654&##
+lPaV]j
+S@KA
+4632
+#"&7
+32654&#"
+suQPsqRSs
+RrqSTqr
+?3?3
+!57>
+54&#"
+'632
+YR!P?4bEB
+VaL6DE&2Xo
+?3?3
+9/]]]3
+#"'5
+3254##532654&#"
+'6632
+uwgcPCBp8E?
+kOD=D+#Z-6w
+9910
+6673
+3265
+#"'#
+/3?3
+#"&5
+4632
+>8:AB93C
+BEEBAF?
+29/3
+#"'5
+32654&'73
+3--;OQOmXn7
+(6+5
+?2?9/
+3310
+#"&54632
+32654&#"
+[hi\\ig\
+zzzz{vv
+/3/3
+&& OY&
+/_^]
+3267
+#"&54>
+76655
+#"&54632
+NKay=
+#@Y6eA
+y;>B73F
+TjKM8dq&0
+FiYR/Xt]
+EB@G@
+99//+++
+310!!
+/_^]3+
+99//++
+3310
+32654&##
+A@")*
+*..&FY.
+#"'5
+3254&'&&54676654&# 
+4632
+`EGK@
+sFC! *93_
+KkFR{T?j59Z5PU
+a@3*
+-'-FY
+1GY8$'
+467754&#"
+'6632
+6632
+!267
+#"&7
+32655
+!4&^
+)5W_X`
+J@+!
+'7&'7
+4&# 
+>1uIK
+4632
+4632
+#"&h
+;64:;34=;64:;34=
+<=?:9@?
+<=?:9@?
+9910
+pTr^
+tTua
++LwL
+6632
+#"'#
+d@7%
+9/_^]3+
+310%#
+3&55!5!53
+#%26554&#"
+?3?3
+99//
+3310
+9///]
+33310!
+4&#"
+#5353
+36632
+T8O[
+310!#
+?3?3
+3310
+99//
+3103
+99//
+THqw
+3265
+b6GSij
+4&#"
+36632
+%V7<>
+310!!
+23+(
+(FY.
+6632
+!267
+32654&#"
+,wrpy
+9/3+
+9/3+
+3310%27
+5#53
+#5773
+U< j*
+310!#
+g`d+WIaY
+3265
+#5754632
+HE@F=_M
+f<bP
++@A i|
+9///
+9910
+&54632
+6673
+4&#"
+jzcd}
+B33B<95@
+9<<97==
+g@7-
+B6<0)
+?9E3
+)GY
+/??+
+5667!
+#"&5
+%754&#"
+'6632
+%2655
+#"&54632
+4&#"
+{feyyee|mA33B<94@
+msZ^
+=bwtcbsw^8==88==
+9910
+6673
+m}wX
+9910
+#&&'
+sri
+9910
+9910
+"&'3
+32673
+)IUe`
+4632
+8*(::(*8
+q9568877
+#"&54632
+4&#"
+-{fexyde|lB33B<94A
+bwubbsw^8==88==
+#"54673
+^*7A<
+VHxDE
+99//
+9910
+#6632
+32673
++ROI"23
+s[.VNH 10
+%-%<=y
+%-%;>y
+6673
+#%6673
+9910
+6673
+99//
+#'4632
+#"&%4632
+!y3P
+4&)17#&4
+4&)17#&4
+4.4.21124.4.211
++555
+9910
+9910!#
+?3?+
+310!#
+31035
+P@)'
+*JY"$
+??99//
+#5#"$
+546633
+32654&+
+??33
+9/3+
+310!#
+#"&&5
+3265
+!5!&
++555
+FY$
+310%26554&# 
+3673
+#"&'#
+!.AQY
+)TT\8B
+QVVQ
+#"FY
+#"&'
+32654&##532654&
+;@ %
+&&54632
+&&#"
+#"$54
+QUak
+>,OBGo[s
+/_^]+
+3267
+#"&54675&&54632
+&&#"
+Zb'/
+#654&'&&54>
+bvI%
+4&#"
+36632
+/_^]+
+3267
+#"&5
+NIW%e
+910#
+5632
+#"&'
+2C1:9D?[yX6
+!0=JS
+?2?9
+GY00
+&)%&%FY&
+#6654&'&&54675&5467
+##5!
+Pb=$
+310%27
+#57!
+}&0+T
+#"'#
+32654&
+#6654&&'&&5
+6C3na
+P" kZB
+2(/&
+3265
+3267
+#"&5
+32654&'3
+??3+
+4632
+4&#"
+y|fIN
+#"&'
+&&#"
+6N>,
+0R?--<;s
+&F+%
+N+[p
+??3+
+6654&'3
+3265
+32654
+#"'#
+D9xk^i
+j]kx7E
+326554&#!
+`67[eh
+3310
+#"'5
+32654&##
+kE@2?0A+7DA
+9/3+
+32654&##
+9/++
+4&#!
+??3+
+310!!
+32654&##
+?3?+
+?33?33
+33333
+!"'5
+32654&##532654&#"
+'6632
+2JrKM
+?2?399
+?3?3
+310!#
+310!#
+'"'5
+3266
+~J;6;5O=]8
+3267
+%oT]`n
+310%3
+310!#
+#"&5
+3267
+310!!
+?33?
+3103
+32654&##
+3103
+#%32654&##
+4&#!
+'632
+!"'5
+!5!&
+G@&
+IY
+?3?+
+&&54$!!
+36632
+s?h7
+4&#!
+4&#!
+?3?+
+?33?33
+33333
+"!"!FY
+/_^]+
+ 54#"
+'632
+#"'5
+32654!#5
+M~f;
+????
+3310
+?3?3
+310!#
+#"'5
+??3?3
+310%77
+?3?3
+9/]+
+?3?+
+310!#
+??3+
+3267
+#"&5
+310%!
+310%!
+4&#!
+! 54&#
+!2654&#
+\][U
+D@&
+/_^]+
+3267!5!&&#"
+'663 
+Q@-
+9/_^]+
+!6632
+32654&#"
+?3?+
+3103#
+&&5463!
+9///_^]
+33310
+4&#"
+#5353
+36632
+/O4:7
+T8O[
+/_^]+
+#"'5
+4&##
+9/3+
+3 54&#
+310!!
+9910
+9910
+/3/3
+3210
+!5!5!5!
+9910
+b8{B%
+9910
+b5zF 
+9910
+%B{-m
+b8{B%
+b5zF 
++++55
+?.33
+9/33
+u@:
+99//
+9922
+3333
+4632
+qlitsjkr
+y~|{w
+0B6<
+%%+<
+33(?
+"99-D
+?3??
+99//
+3?33
+#"&5
+32654&#"
+#"&5
+32654&#"
+#"&5
+S][YY[]S
+8Q][YY[]Q
+4&#"
+363 
+LNPr[t`
+TGiz
+3310
+ ! NY
+!?!O!
+//_^]
+3310
+!5655#535#53546
+`@7"
+/////++
+310%267
+#"&5
+#5773
+32654&##
+//_^]
+#53'57#53
+E@$%
+99//
+3?3?3
+#"&54632
+3254#"%"&54632
+hX!QP
+/3/3
+99//
+310%273
+#"&55
+4632
+``Nr
+()JY(
+?3?3?+
+310!#
+#"&54632
+32654&#"
+"Q][OO[\RV
+rvusspp
+229/3
+/2/3
+9/]93
+546632
+3267
+&&#"
+?555
+?555
+?555
+?555
+A@"&
+#"&54
+56632
+7&&#"
+3107
+?3?+
+9910
+9/93
+#"&'
+#"&54632
+267&&#"
+32654&
+}Bm62mHLda
+Bm73nGLde
+jthq
+[da]iWSj
+y\ba^kTUi
+/2/3
+#"'5
+}O,1>
+J;=:
+p@@(
+*@*$PY
+_^]+
+_^]+
+5632
+3267
+#"&'&&
+5632
+3267
+#"&'&&
+CpXM[-5
+CoXI[19
+EtRE_17
+EvOTU
+n !"
+/_^]
+9910
+"&'3
+32673
+[qgc
+hRXb
+3265
++_;ECNI
+9910
+6673
+9910
+6673
+9910
+#56673
+?3?3
+32654&#"
+!"&5
+R^^VV^^R
+9/]33
+#5!5
+3!547
+K'--
+?3?3
+#"&'5
+32654&#"
+6_nmf9L
+"&SYNX
+?3?3
+36632
+2654&#"
+J14S
+DQcXVUpj
+c]cO[Z;Y|
+?2?39/]3
+#"&5467&&546
+32654&''
+654&
+IUJ9
+5TVZT]Q
+DKDQ
+tEt..]Df~
+f<II<?O
+<9/G!6a9<
+?3?3
+#"'5
+#"&54632
+32654&
+S11]
+Q_UWTsg
+[_WQ_U>ar
+A@=<10
+TNXHvkp`zg
+ED)(%$
+7/k4,H#
+*BZQ
+\t\)AF>duulE=
+}VKkvk&2%1
+A>\=l
+k\lkkl\
+9854! 
+/333333333/333333333
+9///
+333333333
+33333333310
+!5353
+#"&54632
+3254#"%32
+32654&##
+32654#
+mmmm
+oooo
+mp.,=.m^
+{B.$*/;J1%Z
+mmmm
+Joooo
+aCS1B
+D5QY
+b" "
+9///
+54676654&#"
+32654&#"
+,AgI
+Z?>1HT;
+GFBIHCHE
+/2A1R~X
+P:/5K6DpJ;
+?HI>@IH
+!.!GY+.
+((1FY(
+//_^]
+47654&#"
+'632
+4'&$&54632
+!S_X]
+X9{z
+v']]#
+6632
+M\:0(
+(;V|e
+"&54
+!57!
+#"'#
+326553
+32654'
+?Blu]l
+k]umo
+#"&54632
+4&#"
+5}fexxee~nB33B<95@
+axubbuva9<<98==
+#%47
+)w1N
+=H)5
+Cfi
+32654&#"
+3265
+3265
+6653
+#"&5
+#'6654&#"
+563 
+iVNCI> &E
+2++)
+4632
+;;*(::(*;
+9669777
+E@$"
+%IY
+9/9+
+'632
+#"&'#
+&&#"
+<^-E~
+|F-]<
+a-32.
+??33
+99//+
+3310
+32654&##
+9/++
+3310
+#5353
+! 54&#
+9/3+
+9/_^]3+
+!6$32
+3267
+=wbn
+?33?
+!'&'
+?33?
+!&&'#
+?333?3
+5V/Ch
+?333??
+K@( 
+?33?
+9/33+
+#DeY
+[cA 
+N@*!
+"  "FY
+?33?
+9/33+
+WoI1
+":TL
+KR8'
+0InW
+P=iO2
+a@5!
+$&$&IY
+?333??
+9/33+
+^dB!
+g@:!
+$&$&FY
+/!?!
+?333??
+9/]33+
+XoI0
+":VJ
+KT7&
+?7C<*
+.*@C
+<**$JY*
+IY"
+_^]9
+327632
+#"&5467665
+!#532654&#"
+'67&''53
+6632
+WYaxxF
+Diii
+9u1{\
++,o0
+7Err
+>2@<)
+GHD>A
+3232FY&#33#&
+ >>8FY
+??3+
+///+
+32772
+#"&5467$54&##53 54#"
+'67&'53
+)/g-z
+]m0KYVz
+X;|~\g{K
+*,1+
+wpt}
+/_^]+
+/_^]+
+267!
+RH# F
+;TnY*O8
+??9?+
+910!
+R`%G[T-
+5z{4
+D@&
+/0%*JY%
+#"'5
+32677
+LJ7B^u#=
+)*$"&
+?33+
+?33+
+#"'$
+%632
+6632
+s,oo)
+,ll,
+)0&V)
+/'XV'
+./(%+
+?33+
+?33+
+#"&'&
+76632
+6632
+#"&'
+@89=
+>98@
+<5g
+=35<
+%6-+8$
+ $8*+9&
+`>*  ,
+U@.C7
+&FKPH<7
+R@H:"@:@IY(:
+IY.4
+#54632
+'632
+!"&'
+&&#"
+5654.
+5432
+xf+/<}tp:pw
+<_+Fy
+yF+^<
+y$+$43
+gn$,$
+B?9H
+b(0-+
+=H)5
+((,"@E
+OP2:?--6LB
+4&#"
+'6632
+#54632
+5654.
+5432
+>w(9YGtm
+1{p>oC
+-nsGY9(w>
+xe+k}sp:qv
+^P*&
+x$*$f
+do%+%
+>H(8
+_@40$96>
+6)$
+-'-IY
+77!'
+;3!3IY
+9/9+
+'632
+!"&'#
+&&#"
+3267
+C<]-F|
+~F-]<
+gggg
+c001/
+?@$$
+??33
+gggg
+3267
+/332
+#"&5463!6632
+*03)*6
++/3-,6
+-2255).0138(
+9910
+27632
+#54#"
+Qot}j+fy
+b;:od
+f$+$y
+4632
+6(J@
+5654.
+5432
+@J(6
+@I_(DZ">
+R6mL0g
+:HHAOED>LVcc\jf_Zm
+,,%3/"(
+OLjm36
+63mjLO
+/3/3
+9////////
+&&#"
+#632
+&&#"
+#6632
+&&#"
+#6632
+!&&#"
+#6632
+&&#"
+#6632
+!&&#"
+#6632
+&&#"
+#632
+!&&#"
+#6632
+<EN2
+<EN2
+dg\s
+<DN2
+eg\s
+<DN2
+eg\s
+<DN2
+eg\s
+<DN2
+eg\s
+<DN3
+<DN2
+eg\s
+,,)/
+,,)/Yif\
+-+'1Zif]-+'1Zif]
+-+'1Zif]-+'1Zif]
+,,(0
+hZ-+'1Zhf\
+% >:
+?@;+
+'6673
+&&'5
+7667
+'&'7
+F$a5
+REC{L
+F$a5
+Y?DnX
+]2??+
+"&'3
+32673
+]nic
+lN]]
+]2??3+
+%"&'3
+32673
+Ztgd
+fTZ`
+3310
+4&##/
+99//
+3310
+#5353
+! 54&#
+99++
+327'7
+654&##
+yslxd
+WLll
+*+%"
+33310
+"&'#
+36632
+327'7
+654&
+/)yj
+!"&'5
+S}F{
+32654&#"
+?33??+
+33333
+?3?33
+33333
+;@ 
+310%3
+?3?3
+?3?3
+?3?3
+3310
+9/]3+
+33310
+3766
+D@$
+IY
+310%3
+9/_^]+
+?3??+
+9/_^]+
+?3?+
+310!#
+!"'5
+?3?+
+4&#"
+56&,JY2&&
+/99+
+327&
+4&#"
+tBZN=8[
+\/TZ
+6.V\
+g]^g]Sfs
+,4,/
+/99+
+6654#"
+#"&&5
+3267&54632
+D?DS
+[M%6O
+k^4CB1'
+???3
+!5!5
+??3+
+310%3
+?3??+
+@@"
+310%3
+???+
+3310%3
+#"&5
+3267
+3267
+#"&5
+9///
+9///
+#5#"&5
+??39/
+4&#"
+1xv"2
+9/9+
+310!
+6632
+!IY
+//3+
+3310
+3267
+I62<g+
+FY#
+//3+
+3310
+'$5473
+3376632
+3267
+E2/;g#
+*+"" 
+//3+
+3310
+"&5473
+3267
+1vuI62<g+
+)*!"
+FY%
+//3+
+3310
+'$5473
+3376632
+3267
+E2/;g#
+9/9++
+!"&'5
+R|Fz
+9/9++
+310!#
+#"'5
+32654&#"
+_.lG
+3310%3
+'"'5
+3266
+~J;6;5O=]8
+3310%3
+#"'5
+310%
+!"&'5
+RzM{
+9/_^]+
+3265
+]of}v
+D@$
+IY
+310%3
+310!#
+#"&5
+3267
+3267
+#"&5
+?3?3??+
+310!
+??3+
+310%77
+5663 
+55!&&#"
+267!
+9/++
+! '5
+32654&##5
+9/++
+#"'5
+32654&##5
+?3?3
+?3?3
+4$!3
+99//9+
+"&54$!3
+3265
+#"&'
+!265
+Q@),
+310%265
+#"&'#
+3&&5
+!26554&# 
+[qq[
+#532654&#"
+'6632
+3265
+#"&'&&
+l|wp
+7ErHP
+310%2
+&&##53 54#"
+'6632
+#!  
+4&##532654&#"
+'6632
+:BrJN
+4!#53 54&#"
+'632
+JY 
+#"'5
+3266
+3265
+#"&5
+dE@2?1@,8J7
+ospq
+#"&5
+#"'5
+99//+
+3310
+3265
+#"&5
+nspq
+99//_^]+
+3310
+#"&55!
+&&# 
+3265!
+#"&5
+#"&5
+4$3 
+&&#"
+! $54675&&
+xD4{r
+9910
+#&&'53
+#&&'53
+99//
+39910
+#57673
+'673
+^pcra^5p4
+K[eA
+<{M^
+99//
+9910
+#57673
+%#&'53
+^arji^5p4
+Ae`F
+<{M^
+299//
+#57673
+#'6654&#"
+5632
+^pcra^5p4
+9?9+.
+K[eA
+<{M^
+9///
+9910
+#6632
+32673
+#57673
+-%GC?
+eK%IC>
+(*Z
+c^^arji^5p4
+12jq
+11hs
+Ae`F
+<{M^
+9910
+32673
+Vw`>
+LjbV
+H9A@x
+9910
+#&'53
+32673
+LjbV
+H9A@x
+#'6654&#"
+5632
+32673
+9B9,%$
+LjbV
+H9A@x
+9910
+#6632
+32673
+32673
+-%GC?
+dL%IC>
+(*Z
+LjbV
+02hq
+11gr
+H9A@x
+#"'5
+fcA2 6%3
+310%
+#"'5
+8<)=^
+310%
+#"'5
+8<)=^
+32654&#"
+99//
+310!#
+C0pr
+310!!5
+54&#"
+'632
+/whSAWg=Jm
+KY%&
+!"&'5
+!#532654&#"
+'6632
+kz4FpGQ
+310%#
+#"'5
+3265
+!"'5
+#"&54
+326654&&
+htDPf
+Z@.,00.*&&(
+54+1$
+-/-)/##(
+?3/3
+#"'5
+3254&&'&&54632
+6UxQ
+n}\"dS<K
+bm!l(d!(!
+,[LVi'c%.(
++,!'FY$!
+??3+
+310%26754&#"
+#"'5
+3265
+9103
+5Digitized data copyright 
+ 2010-2011, Google Corporation.Open SansRegularAscender - Open Sans Build 100Version 1.10OpenSansOpen Sans is a trademark of Google and may be registered in certain jurisdictions.Ascender Corporationhttp://www.ascendercorp.com/http://www.ascendercorp.com/typedesigners.htmlLicensed under the Apache License, Version 2.0http://www.apache.org/licenses/LICENSE-2.0
+.notdef
+null
+nonmarkingreturn
+space
+exclam
+quotedbl
+numbersign
+dollar
+percent
+ampersand
+quotesingle
+parenleft
+parenright
+asterisk
+plus
+comma
+hyphen
+period
+slash
+zero
+three
+four
+five
+seven
+eight
+nine
+colon
+semicolon
+less
+equal
+greater
+question
+I.alt
+bracketleft
+backslashbracketright
+asciicircum
+underscore
+grave
+braceleft
+braceright
+asciitilde
+nonbreakingspace
+exclamdown
+cent
+sterling
+currency
+brokenbar
+section
+dieresis
+copyright
+ordfeminine
+guillemotleft
+logicalnot
+uni00AD
+registered
+overscore
+degree
+plusminus
+twosuperior
+threesuperior
+acute
+paragraph
+periodcentered
+cedilla
+onesuperiorordmasculine
+guillemotright
+onequarter
+onehalf
+threequartersquestiondown
+Agrave
+Aacute
+Acircumflex
+Atilde
+Adieresis
+Aring
+Ccedilla
+Egrave
+Eacute
+Ecircumflex
+Edieresis
+Igrave.alt
+Iacute.alt
+Icircumflex.alt
+Idieresis.alt
+Ntilde
+Ograve
+Oacute
+Ocircumflex
+Otilde
+Odieresis
+multiply
+Oslash
+Ugrave
+Uacute
+Ucircumflex
+Udieresis
+Yacute
+Thorn
+germandbls
+agrave
+aacute
+acircumflex
+atilde
+adieresis
+aring
+ccedilla
+egrave
+eacute
+ecircumflex
+edieresis
+igrave
+iacute
+icircumflex
+idieresis
+ntilde
+ograve
+oacute
+ocircumflex
+otilde
+odieresis
+divide
+oslash
+ugrave
+uacute
+ucircumflex
+udieresis
+yacute
+thorn
+ydieresis
+Amacron
+amacron
+Abreve
+abreve
+Aogonek
+aogonek
+Cacute
+cacute
+Ccircumflex
+ccircumflex
+Cdot
+cdot
+Ccaron
+ccaron
+Dcaron
+dcaron
+Dcroat
+dcroat
+Emacron
+emacron
+Ebreve
+ebreve
+Edotaccent
+edotaccent
+Eogonek
+eogonek
+Ecaron
+ecaron
+Gcircumflex
+gcircumflex
+Gbreve
+gbreve
+Gdot
+gdotGcommaaccentgcommaaccent
+Hcircumflex
+hcircumflex
+Hbar
+hbar
+Itilde.alt
+itilde
+Imacron.alt
+imacron
+Ibreve.alt
+ibreve
+Iogonek.alt
+iogonek
+Idotaccent.alt
+dotlessi
+IJ.alt
+Jcircumflex
+jcircumflexKcommaaccentkcommaaccentkgreenlandic
+Lacute
+lacuteLcommaaccentlcommaaccent
+Lcaron
+lcaron
+Ldot
+ldot
+Lslash
+lslash
+Nacute
+nacuteNcommaaccentncommaaccent
+Ncaron
+ncaron
+napostrophe
+Omacron
+omacron
+Obreve
+obreve
+Ohungarumlaut
+ohungarumlaut
+Racute
+racuteRcommaaccentrcommaaccent
+Rcaron
+rcaron
+Sacute
+sacute
+Scircumflex
+scircumflex
+Scedilla
+scedilla
+Scaron
+scaronTcommaaccenttcommaaccent
+Tcaron
+tcaron
+Tbar
+tbar
+Utilde
+utilde
+Umacron
+umacron
+Ubreve
+ubreve
+Uring
+uring
+Uhungarumlaut
+uhungarumlaut
+Uogonek
+uogonek
+Wcircumflex
+wcircumflex
+Ycircumflex
+ycircumflex
+Ydieresis
+Zacute
+zacute
+Zdotaccent
+zdotaccent
+Zcaron
+zcaron
+longs
+florin
+Aringacute
+aringacute
+AEacute
+aeacute
+Oslashacute
+oslashacuteScommaaccentscommaaccent
+circumflex
+caron
+macron
+breve
+dotaccent
+ring
+ogonek
+tildehungarumlaut
+tonos
+dieresistonos
+Alphatonos
+anoteleiaEpsilontonos
+Etatonos
+Iotatonos.altOmicrontonosUpsilontonos
+Omegatonos
+iotadieresistonos
+Alpha
+Beta
+Gamma
+uni0394
+Epsilon
+Zeta
+Theta
+Iota.alt
+Kappa
+Lambda
+Omicron
+Sigma
+Upsilon
+uni03A9
+Iotadieresis.alt
+Upsilondieresis
+alphatonosepsilontonos
+etatonos
+iotatonos
+upsilondieresistonos
+alpha
+beta
+gamma
+delta
+epsilon
+zeta
+theta
+iota
+kappa
+lambda
+uni03BC
+omicron
+sigma1
+sigma
+upsilon
+omegaiotadieresis
+upsilondieresisomicrontonosupsilontonos
+omegatonos
+afii10023
+afii10051
+afii10052
+afii10053
+afii10054
+afii10055.alt
+afii10056.alt
+afii10057
+afii10058
+afii10059
+afii10060
+afii10061
+afii10062
+afii10145
+afii10017
+afii10018
+afii10019
+afii10020
+afii10021
+afii10022
+afii10024
+afii10025
+afii10026
+afii10027
+afii10028
+afii10029
+afii10030
+afii10031
+afii10032
+afii10033
+afii10034
+afii10035
+afii10036
+afii10037
+afii10038
+afii10039
+afii10040
+afii10041
+afii10042
+afii10043
+afii10044
+afii10045
+afii10046
+afii10047
+afii10048
+afii10049
+afii10065
+afii10066
+afii10067
+afii10068
+afii10069
+afii10070
+afii10072
+afii10073
+afii10074
+afii10075
+afii10076
+afii10077
+afii10078
+afii10079
+afii10080
+afii10081
+afii10082
+afii10083
+afii10084
+afii10085
+afii10086
+afii10087
+afii10088
+afii10089
+afii10090
+afii10091
+afii10092
+afii10093
+afii10094
+afii10095
+afii10096
+afii10097
+afii10071
+afii10099
+afii10100
+afii10101
+afii10102
+afii10103
+afii10104
+afii10105
+afii10106
+afii10107
+afii10108
+afii10109
+afii10110
+afii10193
+afii10050
+afii10098
+Wgrave
+wgrave
+Wacute
+wacute
+Wdieresis
+wdieresis
+Ygrave
+ygrave
+endash
+emdash
+afii00208
+underscoredbl
+quoteleft
+quoteright
+quotesinglbase
+quotereversedquotedblleft
+quotedblrightquotedblbase
+dagger
+daggerdbl
+bullet
+ellipsis
+perthousand
+minute
+second
+guilsinglleft
+guilsinglright
+exclamdbl
+fraction
+nsuperior
+franc
+afii08941
+peseta
+Euro
+afii61248
+afii61289
+afii61352
+trademark
+Omega
+estimated
+oneeighththreeeighths
+fiveeighthsseveneighths
+partialdiff
+Delta
+product
+summation
+minus
+radical
+infinity
+integral
+approxequal
+notequal
+lessequalgreaterequal
+lozenge
+uniFB01
+uniFB02
+cyrillicbreve
+dotlessj
+caroncommaaccent
+commaaccent
+commaaccentrotatezerosuperiorfoursuperiorfivesuperior
+sixsuperior
+sevensuperior
+eightsuperiorninesuperior
+uni2000
+uni2001
+uni2002
+uni2003
+uni2004
+uni2005
+uni2006
+uni2007
+uni2008
+uni2009
+uni200A
+uni200B
+uniFEFF
+uniFFFC
+uniFFFD
+uni01F0
+uni02BC
+uni03D1
+uni03D2
+uni03D6
+uni1E3E
+uni1E3F
+uni1E00
+uni1E01
+uni1F4D
+uni02F3
+dasiaoxia
+uniFB03
+uniFB04
+Ohorn
+ohorn
+Uhorn
+uhorn
+uni0300
+uni0301
+uni0303
+hook
+dotbelow
+uni0400
+uni040D
+uni0450
+uni045D
+uni0460
+uni0461
+uni0462
+uni0463
+uni0464
+uni0465
+uni0466
+uni0467
+uni0468
+uni0469
+uni046A
+uni046B
+uni046C
+uni046D
+uni046E
+uni046F
+uni0470
+uni0471
+uni0472
+uni0473
+uni0474
+uni0475
+uni0476
+uni0477
+uni0478
+uni0479
+uni047A
+uni047B
+uni047C
+uni047D
+uni047E
+uni047F
+uni0480
+uni0481
+uni0482
+uni0483
+uni0484
+uni0485
+uni0486
+uni0488
+uni0489
+uni048A
+uni048B
+uni048C
+uni048D
+uni048E
+uni048F
+uni0492
+uni0493
+uni0494
+uni0495
+uni0496
+uni0497
+uni0498
+uni0499
+uni049A
+uni049B
+uni049C
+uni049D
+uni049E
+uni049F
+uni04A0
+uni04A1
+uni04A2
+uni04A3
+uni04A4
+uni04A5
+uni04A6
+uni04A7
+uni04A8
+uni04A9
+uni04AA
+uni04AB
+uni04AC
+uni04AD
+uni04AE
+uni04AF
+uni04B0
+uni04B1
+uni04B2
+uni04B3
+uni04B4
+uni04B5
+uni04B6
+uni04B7
+uni04B8
+uni04B9
+uni04BA
+uni04BB
+uni04BC
+uni04BD
+uni04BE
+uni04BF
+uni04C0.alt
+uni04C1
+uni04C2
+uni04C3
+uni04C4
+uni04C5
+uni04C6
+uni04C7
+uni04C8
+uni04C9
+uni04CA
+uni04CB
+uni04CC
+uni04CD
+uni04CE
+uni04CF.alt
+uni04D0
+uni04D1
+uni04D2
+uni04D3
+uni04D4
+uni04D5
+uni04D6
+uni04D7
+uni04D8
+uni04D9
+uni04DA
+uni04DB
+uni04DC
+uni04DD
+uni04DE
+uni04DF
+uni04E0
+uni04E1
+uni04E2
+uni04E3
+uni04E4
+uni04E5
+uni04E6
+uni04E7
+uni04E8
+uni04E9
+uni04EA
+uni04EB
+uni04EC
+uni04ED
+uni04EE
+uni04EF
+uni04F0
+uni04F1
+uni04F2
+uni04F3
+uni04F4
+uni04F5
+uni04F6
+uni04F7
+uni04F8
+uni04F9
+uni04FA
+uni04FB
+uni04FC
+uni04FD
+uni04FE
+uni04FF
+uni0500
+uni0501
+uni0502
+uni0503
+uni0504
+uni0505
+uni0506
+uni0507
+uni0508
+uni0509
+uni050A
+uni050B
+uni050C
+uni050D
+uni050E
+uni050F
+uni0510
+uni0511
+uni0512
+uni0513
+uni1EA0
+uni1EA1
+uni1EA2
+uni1EA3
+uni1EA4
+uni1EA5
+uni1EA6
+uni1EA7
+uni1EA8
+uni1EA9
+uni1EAA
+uni1EAB
+uni1EAC
+uni1EAD
+uni1EAE
+uni1EAF
+uni1EB0
+uni1EB1
+uni1EB2
+uni1EB3
+uni1EB4
+uni1EB5
+uni1EB6
+uni1EB7
+uni1EB8
+uni1EB9
+uni1EBA
+uni1EBB
+uni1EBC
+uni1EBD
+uni1EBE
+uni1EBF
+uni1EC0
+uni1EC1
+uni1EC2
+uni1EC3
+uni1EC4
+uni1EC5
+uni1EC6
+uni1EC7
+uni1EC8.alt
+uni1EC9
+uni1ECA.alt
+uni1ECB
+uni1ECC
+uni1ECD
+uni1ECE
+uni1ECF
+uni1ED0
+uni1ED1
+uni1ED2
+uni1ED3
+uni1ED4
+uni1ED5
+uni1ED6
+uni1ED7
+uni1ED8
+uni1ED9
+uni1EDA
+uni1EDB
+uni1EDC
+uni1EDD
+uni1EDE
+uni1EDF
+uni1EE0
+uni1EE1
+uni1EE2
+uni1EE3
+uni1EE4
+uni1EE5
+uni1EE6
+uni1EE7
+uni1EE8
+uni1EE9
+uni1EEA
+uni1EEB
+uni1EEC
+uni1EED
+uni1EEE
+uni1EEF
+uni1EF0
+uni1EF1
+uni1EF4
+uni1EF5
+uni1EF6
+uni1EF7
+uni1EF8
+uni1EF9
+uni20AB
+uni030F
+circumflexacutecomb
+circumflexgravecomb
+circumflexhookcomb
+circumflextildecomb
+breveacutecomb
+brevegravecomb
+brevehookcomb
+brevetildecomb
+cyrillichookleft
+cyrillicbighookUC
+cyrillicbighookLC
+one.pnum
+zero.os
+one.os
+two.os
+three.os
+four.os
+five.os
+six.os
+seven.os
+eight.os
+nine.os
+uni2120
+Tcedilla
+tcedilla
+g.alt
+gcircumflex.alt
+gbreve.alt
+gdot.alt
+gcommaaccent.alt
+Igrave
+Iacute
+Icircumflex
+Idieresis
+Itilde
+Imacron
+Ibreve
+Iogonek
+Idotaccent
+Iotatonos
+IotaIotadieresis
+afii10055
+afii10056
+uni04C0
+uni04CF
+uni1EC8
+uni1ECA
+latn
+MOL 
+ROM 
+latn
+MOL 
+(ROM 
+liga
+liga
+liga
+lnum
+lnum
+lnum
+locl
+locl
+onum
+onum
+onum
+pnum
+pnum
+pnum
+salt
+salt
+salt
+ss01
+"ss01
+*ss01
+2ss02
+:ss02
+@ss02
+Fss03
+Lss03
+Rss03
+Xtnum
+^tnum
+ftnum
+S0Q0,
+>0!0
+VeriSign, Inc.1+0)
+"VeriSign Time Stamping Services CA0
+070615000000Z
+120614235959Z0\1
+VeriSign, Inc.1402
++VeriSign Time Stamping Services Signer - G20
+J[/K
+5TX5
+6^bMRQ4q
+JcEG.k
+(0&0$
+http://ocsp.verisign.com0
+,0*0(
+"http://crl.verisign.com/tss-ca.crl0
+TSA1-20
+u6t:
+!?DA
+y>]r}
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+031204000000Z
+131203235959Z0S1
+VeriSign, Inc.1+0)
+"VeriSign Time Stamping Services CA0
+_zj1.
+XWou
+(0&0$
+http://ocsp.verisign.com0
+:0806
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+TSA2048-1-530
+?7!Op1
+VeriSign, Inc.1705
+.Class 3 Public Primary Certification Authority0
+090521000000Z
+190520235959Z0
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)09100.
+'VeriSign Class 3 Code Signing 2009-2 CA0
+|=;%
+'tag'Mj
++G D
+:|@T
+`x^{`
+i0g0e
+0V0(
+https://www.verisign.com/cps0*
+https://www.verisign.com/rpa0
+[0Y0W0U
+image/gif0!0
+#http://logo.verisign.com/vslogo.gif0
+(0&0$
+http://ocsp.verisign.com01
+*0(0&
+ http://crl.verisign.com/pca3.crl0)
+Class3CA2048-1-550
+xEv1
+mPSo
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)09100.
+'VeriSign Class 3 Code Signing 2009-2 CA0
+100729000000Z
+120808235959Z0
+Massachusetts1
+Woburn1
+Monotype Imaging Inc.1>0<
+5Digital ID Class 3 - Microsoft Software Validation v21
+Type Operations1
+Monotype Imaging Inc.0
+@p-5c
+ePd"
+=0;09
+3http://csc3-2009-2-crl.verisign.com/CSC3-2009-2.crl0D
+=0;09
+0*0(
+https://www.verisign.com/rpa0
+i0g0$
+http://ocsp.verisign.com0?
+3http://csc3-2009-2-aia.verisign.com/CSC3-2009-2.cer0
+_[KI
+Z9\Z
+5|eK
+X3u=
+VeriSign, Inc.1
+VeriSign Trust Network1;09
+2Terms of use at https://www.verisign.com/rpa (c)09100.
+'VeriSign Class 3 Code Signing 2009-2 CA
+mPSo
+m2,H
+/]d$4.
+~xR[
+0g0S1
+VeriSign, Inc.1+0)
+"VeriSign Time Stamping Services CA
+110505165510Z0#
+=.o 
+%s '%s'
+could not read file '%s'
+too many upvalues
+mount
+unmount
+setWritePath
+exists
+size
+modified
+read
+write
+append
+delete
+makeDirs
+cannot pop bottom of stack
+alpha
+multiply
+bad blend mode '%s'
+Shader
+src/m_graphics.c
+glGetError() == 0
+Texture
+failed to init framebuffer
+graphics are already inited
+could not init video
+could not set video mode
+ogl_LoadFunctions() != ogl_LOAD_FAILED
+triangle
+trianglefan
+trianglestrip
+line
+linestrip
+lineloop
+point
+bad mode
+expected table
+coord array overflow
+non-matching table length
+too many upvalues
+init
+clear
+present
+getWidth
+getHeight
+setMaxFps
+setColor
+setClearColor
+setBlendMode
+setLineWidth
+setLineSmooth
+setTexture
+setFramebuffer
+setShader
+resetMatrix
+push
+translate
+rotate
+scale
+draw
+too many upvalues
+setVisible
+setPosition
+Shader
+src/m_shader.c
+glGetError() == 0
+could not compile shader:
+could not link shader:
+could not open file '%s'
+expected value
+no shader program loaded
+uniform '%s' does not exist
+too many values in table
+expected non-empty table
+expected subtable length between 1 and 4
+non-matching subtable length
+uniform vector overflow
+bad value type
+luaL_newmetatable(L, CLASS_NAME)
+too many upvalues
+__index
+__gc
+fromFile
+fromString
+uniform
+Sound
+expected table
+unsupported format (%dbit)
+src/m_sound.c
+self->data
+could not load: %s
+could not open file '%s'
+luaL_newmetatable(L, CLASS_NAME)
+too many upvalues
+__index
+__gc
+fromFile
+fromString
+process
+tick
+getLength
+setRate
+setGain
+setLoop
+setPosition
+getPosition
+Fframebuffer
+framebuffers
+shader
+shaders
+invalid feature string
+windows
+exedir
+appdata
+APPDATA
+invalid string
+quit
+type
+keydown
+char
+keyup
+mousemove
+mousebuttondown
+button
+mousebuttonup
+too many upvalues
+poll
+info
+supports
+left
+middle
+right
+wheelup
+wheeldown
+Texture
+src/lib/stb_image.h
+req_comp >= 1 && req_comp <= 4
+outofmem
+bad code lengths
+out_n == 2 || out_n == 4
+s->img_out_n == 4
+bits <= 16
+sizes[i] <= (1 << i)
+bad codelengths
+out_n == s->img_n || out_n == s->img_n+1
+not enough pixels
+invalid filter
+img_n+1 == out_n
+not GIF
+bad png sig
+#?RADIANCE
+FORMAT=32-bit_rle_rgbe
+z->code_buffer < (1U << z->num_bits)
+c >= 0 && c < 19
+z->size[b] == s
+bad zlib header
+no preset dict
+bad compression
+a->num_bits == 0
+zlib corrupt
+read past buffer
+output buffer limit
+bad huffman code
+bad dist
+(((j->code_buffer) >> (32 - h->size[c])) & stbi__bmask[h->size[c]]) == h->code[c]
+expected marker
+progressive jpeg
+bad DRI len
+bad DQT type
+bad DQT table
+bad DHT header
+not BMP
+unknown BMP
+bad BMP
+monochrome
+BMP RLE
+hsz == 108 || hsz == 124
+invalid
+bad bpp
+bad masks
+unknown image type
+not HDR
+unsupported format
+unsupported data layout
+invalid decoded scanline length
+bad Image Descriptor
+missing color table
+no clear code
+too many codes
+illegal code in raster
+unknown code
+not PSD
+wrong version
+wrong channel count
+unsupported bit depth
+wrong color format
+bad file
+too large
+bad format
+bad palette
+#?RADIANCE
+bad stbi__SOF len
+only 8-bit
+no header height
+0 width
+bad component count
+bad component ID
+bad H
+bad V
+bad TQ
+no stbi__SOI
+no stbi__SOF
+bad req_comp
+bad stbi__SOS component count
+bad stbi__SOS len
+bad DC huff
+bad AC huff
+bad stbi__SOS
+multiple IHDR
+bad IHDR len
+8bit only
+bad ctype
+bad comp method
+bad filter method
+bad interlace method
+0-pixel image
+first not IHDR
+invalid PLTE
+tRNS after IDAT
+tRNS before PLTE
+bad tRNS len
+tRNS with alpha
+no PLTE
+outofdata
+no IDAT
+can't fopen
+nearest
+linear
+bad filter mode
+expected width of more than zero
+expected height of more than zero
+could not allocate bitmap buffer
+could not load image
+error when loading surface
+could not open file '%s'
+src/m_texture.c
+luaL_newmetatable(L, CLASS_NAME)
+too many upvalues
+__index
+__gc
+fromFile
+fromString
+fromBlank
+setFilter
+getWidth
+getHeight
+!(0)"
+#*1892+$
+%,3:;4-&
+'.5<=6/7>????????????????
+too many upvalues
+getNow
+sleep
+_LOADED
+_argv
+error: %s
+_onStep
+time.lua
+graphics.lua
+keyboard.lua
+mouse.lua
+init.lua
+local last = 0
+local delta = 0
+local average = 0
+local avgTimer = 0
+local avgAcc = 1
+local avgCount = 1
+function fe.time.step()
+  local now = fe.time.getNow()
+  if last == 0 then last = now end
+  delta = now - last
+  last = now
+  avgTimer = avgTimer - delta
+  avgAcc = avgAcc + delta
+  avgCount = avgCount + 1
+  if avgTimer <= 0 then
+    average = avgAcc / avgCount
+    avgTimer = avgTimer + 1
+    avgCount = 0
+    avgAcc = 0
+  end
+function fe.time.getDelta()
+  return delta
+function fe.time.getAverage()
+  return average
+function fe.time.getFps()
+  return math.floor(1 / average + .5)
+local function checkArg(idx, cond, msg)
+  if not cond then
+    error("bad argument #" .. idx .. ", " .. msg, 3)
+  end
+function fe.graphics.getSize()
+  return fe.graphics.getWidth(), fe.graphics.getHeight()
+function fe.graphics.reset()
+  fe.graphics.resetMatrix()
+  fe.graphics.setClearColor()
+  fe.graphics.setColor()
+  fe.graphics.setTexture()
+  fe.graphics.setBlendMode()
+  if fe.system.supports("shader") then
+    fe.graphics.setShader()
+  end
+  if fe.system.supports("framebuffer") then
+    fe.graphics.setFramebuffer()
+  end
+function fe.graphics.drawPoint(x, y)
+  checkArg(1, type(x) == "number", "expected number")
+  checkArg(2, type(y) == "number", "expected number")
+  fe.graphics.draw("point", { x, y })
+function fe.graphics.drawRect(x, y, w, h)
+  checkArg(1, type(x) == "number", "expected number")
+  checkArg(2, type(y) == "number", "expected number")
+  checkArg(3, type(w) == "number", "expected number")
+  checkArg(4, type(h) == "number", "expected number")
+  fe.graphics.draw(
+    "trianglestrip",
+    { x, y, x + w, y, x, y + h, x + w, y + h })
+function fe.graphics.drawBox(x, y, w, h)
+  checkArg(1, type(x) == "number", "expected number")
+  checkArg(2, type(y) == "number", "expected number")
+  checkArg(3, type(w) == "number", "expected number")
+  checkArg(4, type(h) == "number", "expected number")
+  fe.graphics.draw(
+    "lineloop",
+    { x, y, x + w, y, x + w, y + h, x, y + h })
+function fe.graphics.drawCircle(x, y, r, p)
+  checkArg(1, type(x) == "number", "expected number")
+  checkArg(2, type(y) == "number", "expected number")
+  checkArg(3, type(r) == "number", "expected number")
+  checkArg(4, p == nil or type(p) == "number", "expected number")
+  local t = { x, y }
+  local p = p or math.max(math.floor(math.abs(r) * .4), 10)
+  for i = 0, p do
+    local z = (i / p) * math.pi * 2
+    table.insert(t, x + math.cos(z) * r)
+    table.insert(t, y + math.sin(z) * r)
+  end 
+  fe.graphics.draw("trianglefan", t)
+function fe.graphics.drawRing(x, y, r, p)
+  checkArg(1, type(x) == "number", "expected number")
+  checkArg(2, type(y) == "number", "expected number")
+  checkArg(3, type(r) == "number", "expected number")
+  checkArg(4, p == nil or type(p) == "number", "expected number")
+  local t = { }
+  local p = p or math.max(math.floor(math.abs(r) * .4), 12)
+  for i = 1, p do
+    local z = (i / p) * math.pi * 2
+    table.insert(t, x + math.cos(z) * r)
+    table.insert(t, y + math.sin(z) * r)
+  end 
+  fe.graphics.draw("lineloop", t)
+function fe.graphics.drawLine(...)
+  fe.graphics.draw("linestrip", { ... })
+function fe.graphics.drawImage(image, sub, x, y, r, sx, sy, ox, oy)
+  if sub and type(sub) ~= "table" then
+    return fe.graphics.drawImage(image, nil, sub, x, y, r, sx, sy, ox)
+  end
+  x = x or 0
+  y = y or 0
+  r = r or 0
+  sx = sx or 1
+  sy = sy or sx
+  local iw, ih = image:getWidth(), image:getHeight()
+  local w, h, tx1, ty1, tx2, ty2
+  if sub then
+    w, h = sub.w, sub.h
+    tx1 = sub.x / iw
+    ty1 = sub.y / ih
+    tx2 = (sub.x + w) / iw
+    ty2 = (sub.y + h) / ih
+  else
+    w, h = iw, ih
+    tx1, ty1, tx2, ty2 = 0, 0, 1, 1
+  end
+  local x2, y2 = x + w, y + h
+  fe.graphics.setTexture(image)
+  if r ~= 0 or sx ~= 1 or sy ~= 1 then
+    -- Draw with scaling / rotation
+    ox = (ox or w / 2) + x
+    oy = (oy or h / 2) + y
+    fe.graphics.push()
+    fe.graphics.translate(ox, oy)
+    fe.graphics.rotate(r)
+    fe.graphics.scale(sx, sy)
+    fe.graphics.translate(-ox, -oy)
+    fe.graphics.draw(
+      "trianglestrip",
+      { x, y, x2, y, x, y2, x2, y2 },
+      { tx1, ty1, tx2, ty1, tx1, ty2, tx2, ty2 })
+    fe.graphics.pop()
+  else
+    -- Draw without scaling / rotation
+    fe.graphics.draw(
+      "trianglestrip",
+      { x, y, x2, y, x, y2, x2, y2 },
+      { tx1, ty1, tx2, ty1, tx1, ty2, tx2, ty2 })
+  end
+local defaultFont = fe.Font.fromEmbedded()
+local fontTexCache = {}
+setmetatable(fontTexCache, { 
+  __index = function(t, k) 
+    fontTexCache[k] = {}
+    return fontTexCache[k]
+  end,
+  __mode = "kv",
+function fe.graphics.drawText(font, text, x, y, width)
+  if type(font) ~= "userdata" then
+    return fe.graphics.drawText(defaultFont, font, text, x, y, width)
+  end
+  checkArg(3, x == nil or type(x) == "number", "expected number")
+  checkArg(4, y == nil or type(y) == "number", "expected number")
+  checkArg(5, width == nil or type(width) == "number", "expected number")
+  text = tostring(text)
+  if width then
+    -- Word wrapped multi line
+    local height = font:getHeight()
+    local line
+    for word in text:gmatch("%S+") do
+      local tmp = (line and (line .. " ") or "") .. word
+      if font:getWidth(tmp) > width then
+        fe.graphics.drawText(font, line, x, y)
+        y = y + height
+        line = word
+      else
+        line = tmp
+      end
+    end
+    fe.graphics.drawText(font, line, x, y)
+  elseif text:find("\n") then
+    -- Multi line
+    local height = font:getHeight()
+    for line in (text.."\n"):gmatch("(.-)\n") do
+      fe.graphics.drawText(font, line, x, y)
+      y = y + height
+    end
+  else
+    -- Single line
+    local tex = fontTexCache[font][text]
+    if not tex then
+      tex = font:render(text)
+      fontTexCache[font][text] = tex
+    end
+    fe.graphics.drawImage(tex, x, y)
+  end
+-- The table is checked and created here if it does not exist, at the time of
+-- writing this the fe.keyboard does not have a C module, and so the table won't
+-- exist yet.
+fe.keyboard = fe.keyboard or {}
+local keysDown = {}
+function fe.keyboard._onEvent(e)
+  if e.type == "keydown" then
+    keysDown[e.key] = true
+  elseif e.type == "keyup" then
+    keysDown[e.key] = nil
+  end
+function fe.keyboard.isDown(...)
+  for i = 1, select("#", ...) do
+    local k = select(i, ...)
+    if keysDown[k] then
+      return true
+    end
+  end
+  return false
+local position = { x = 0, y = 0 }
+local buttonsDown = {}
+function fe.mouse._onEvent(e)
+  if e.type == "mousemove" then
+    position.x, position.y = e.x, e.y
+  elseif e.type == "mousebuttondown" then
+    buttonsDown[e.button] = true
+  elseif e.type == "mousebuttonup" then
+    buttonsDown[e.button] = nil
+  end
+function fe.mouse.isDown(...)
+  for i = 1, select("#", ...) do
+    local b = select(i, ...)
+    if buttonsDown[b] then
+      return true
+    end
+  end
+  return false
+function fe.mouse.getPosition()
+  return position.x, position.y
+function fe.mouse.getX()
+  return position.x
+function fe.mouse.getY()
+  return position.y
+local function call(fn, ...)
+  if fn then return fn(...) end
+local function extend(...)
+  local res = {}
+  for i = 1, select("#", ...) do
+    local t = select(i, ...)
+    if t then
+      for k, v in pairs(t) do
+        res[k] = v
+      end
+    end
+  end
+  return res
+local function push(arr, ...)
+  for i = 1, select("#", ...) do
+    table.insert(arr, (select(i, ...)))
+  end
+local doneOnError = false
+local exit = os.exit
+local traceback = debug.traceback
+local function onError(msg)
+  if not doneOnError then
+    doneOnError = true
+    fe.onError(msg, traceback())
+  else
+    print("\n" .. msg .. "\n" .. traceback())
+    exit(1)
+  end
+-------------------------------------------------------------------------------
+-- Generate get* and with* functions
+-------------------------------------------------------------------------------
+-- For each set* function in each module, if a get* function does not exist,
+-- we both override the set* function to store its arguments, and create a get*
+-- and with* function for it.
+local history = {}
+local function process(t)
+  if history[t] then
+    return
+  end
+  history[t] = true
+  for k, v in pairs(t) do
+    if type(v) == "table" then
+      process(v)
+    elseif type(v) == "function" and k:match("^set[A-Z]") then
+      local nameGet = k:gsub("^set", "get")
+      local nameWith = k:gsub("^set", "with")
+      if not t[nameGet] then
+        local a = {}
+        -- Override set* func
+        t[k] = function(...)
+          a[1], a[2], a[3], a[4] = ...
+          return v(...)
+        end
+        -- Generate get* func
+        t[nameGet] = function()
+          return unpack(a)
+        end
+        -- Generate with* func
+        t[nameWith] = function(fn, ...)
+          local a, b, c, d = t[nameGet]()
+          t[k](...)
+          fn()
+          t[k](a, b, c, d)
+        end
+      end
+    end
+  end
+process(fe)
+history = nil
+-------------------------------------------------------------------------------
+-- Init callbacks
+-------------------------------------------------------------------------------
+local eventHandlers = {
+  keydown = function(e)
+    call(fe.keyboard._onEvent, e)
+    call(fe.onKeyDown, e.key, e.char)
+    end,
+  keyup = function(e)
+    call(fe.keyboard._onEvent, e)
+    call(fe.onKeyUp, e.key)
+    end,
+  mousemove = function(e)
+    call(fe.mouse._onEvent, e)
+    call(fe.onMouseMove, e.x, e.y)
+    end,
+  mousebuttondown = function(e)
+    call(fe.mouse._onEvent, e)
+    call(fe.onMouseDown, e.x, e.y, button)
+    end,
+  mousebuttonup = function(e)
+    call(fe.mouse._onEvent, e)
+    call(fe.onMouseUp, e.x, e.y, button)
+    end,
+  quit = function(e)
+    call(fe.onQuit)
+    os.exit()
+    end,
+local function onStepMain()
+  for i, e in ipairs(fe.system.poll()) do
+    call(eventHandlers[e.type], e)
+  end
+  call(fe.time.step)
+  call(fe.onUpdate, call(fe.time.getDelta))
+  call(fe.graphics.clear)
+  call(fe.onDraw)
+  call(fe.graphics.present)
+function fe._onStep()
+  xpcall(onStepMain, onError)
+function fe._onAudio(...)
+  local res
+  local args = { ... }
+  xpcall(function()
+    res = call(fe.onAudio, unpack(args))
+  end, onError)
+  return res
+function fe.onError(msg, stacktrace)
+  -- Create and print error string
+  local tab = "    "
+  local str = 
+    msg:gsub("\t", tab):gsub("\n+$", "") .. "\n\n" ..
+    stacktrace:gsub("\t", tab)
+  print("Error:\n" .. str)
+  -- Override event handlers
+  eventHandlers = {
+    quit = function() os.exit() end,
+    keydown = function(e) if e.key == "escape" then os.exit() end end,
+  --  Init error state
+  local font, bigfont
+  local done = false 
+  local alpha = 0
+  function fe.onUpdate()
+    -- The initialisation of the error state's graphics is deferred to the
+    -- first onUpdate() call in case the error occurs in the audio thread in
+    -- which case it won't be able to change the openGL state 
+    fe.graphics.reset()
+    fe.graphics.setClearColor(.15, .16, .2)
+    font = fe.Font.fromEmbedded(14)
+    bigfont = fe.Font.fromEmbedded(40)
+    -- Init update function
+    function fe.onUpdate(dt)
+      if alpha == 1 then
+        done = true
+      else
+        alpha = math.min(alpha + dt / .5, 1)
+      end
+    end
+  end
+  function fe.onAudio() end
+  function fe.onDraw()
+    fe.graphics.setColor(1, 1, 1, alpha)
+    fe.graphics.drawText(bigfont, "Error", 40, 40)
+    fe.graphics.drawText(font, str, 40, 120)
+    -- As this screen won't change after its faded in we can sleep here to
+    -- avoid having to redraw too often -- this will reduce CPU usage
+    if done then
+      fe.time.sleep(.1)
+    end
+  end
+-------------------------------------------------------------------------------
+-- Init filesystem
+-------------------------------------------------------------------------------
+-- Mount project paths
+if fe._argv[2] then
+  -- Try to mount all arguments as package
+  for i = 2, #fe._argv do
+    fe.fs.mount(fe._argv[i])
+  end
+else
+  -- Try to mount default packages (pak0, pak1, etc.)
+  local dirs = { fe.system.info("exedir") }
+  if fe.system.info("os") == "osx" then
+    table.insert(dirs, fe.system.info("exedir") .. "/../Resources")
+  end
+  for _, dir in ipairs(dirs) do
+    local idx = 0
+    while fe.fs.mount(dir .. "/pak" .. idx) do
+      idx = idx + 1
+    end
+    if idx ~= 0 then break end
+  end
+-- Add filesystem-compatible package loader
+table.insert(package.loaders, 1, function(modname)
+  modname = modname:gsub("%.", "/")
+  for x in package.path:gmatch("[^;]+") do
+    filename = x:gsub("?", modname)
+    if fe.fs.exists(filename) then
+      return assert(loadstring(fe.fs.read(filename), "=" .. filename))
+    end
+  end
+end)
+-------------------------------------------------------------------------------
+-- Init config    
+-------------------------------------------------------------------------------
+local c = {}
+if fe.fs.exists("config.lua") then
+  c = call(require, "config")
+config = extend({
+  title       = "Felicity " .. fe.getVersion(),
+  width       = 500,
+  height      = 500,
+  maxfps      = 60,
+  samplerate  = 44100,
+  buffersize  = 2048,
+  fullscreen  = false,
+}, c)
+if not config.identity then
+  config.identity = config.title:gsub("[^%w]", ""):lower()
+-------------------------------------------------------------------------------
+-- Init filesystem write path
+-------------------------------------------------------------------------------
+local appdata = fe.system.info("appdata")
+local path = appdata .. "/felicity/" .. config.identity
+fe.fs.setWritePath(path)
+fe.fs.mount(path)
+-------------------------------------------------------------------------------
+-- Init modules   
+-------------------------------------------------------------------------------
+fe.graphics.init(config.width, config.height, config.fullscreen, config.title)
+fe.graphics.setMaxFps(config.maxfps)
+fe.audio.init(config.samplerate, config.buffersize)
+-------------------------------------------------------------------------------
+-- Override functions unsupported on this system
+-------------------------------------------------------------------------------
+if not fe.system.supports("framebuffer") then
+  fe.graphics.framebuffer = function()
+    error("framebuffers are not supported on this system", 2)
+  end
+if not fe.system.supports("shader") then
+  local shaderErrorFunc = function()
+    error("shaders are not supported on this system", 2)
+  end
+  fe.graphics.shader = shaderErrorFunc
+  fe.Shader.fromFile = shaderErrorFunc
+  fe.Shader.fromString = shaderErrorFunc
+-------------------------------------------------------------------------------
+-- Init project   
+-------------------------------------------------------------------------------
+if fe.fs.exists("main.lua") then
+  -- Load project file
+  xpcall(function() require "main" end, onError)
+else
+  -- No project file -- init "no project" state
+  local elapsed = 0
+  function fe.onLoad()
+    fe.graphics.setClearColor(.15, .15, .2)
+  end
+  function fe.onUpdate(dt)
+    elapsed = elapsed + dt
+  end
+  function fe.onDraw()
+    -- Draw multi-square
+    fe.graphics.push()
+    fe.graphics.translate(fe.graphics.getWidth() / 2,
+                          fe.graphics.getHeight() / 2)
+    fe.graphics.scale(1.2 + math.sin(elapsed * .5) * .2)
+    local color = {
+      r = 1 + math.sin(elapsed * 1.2) / 2,
+      g = 1 + math.sin(elapsed * 1.6) / 2,
+      b = 1 + math.sin(elapsed * 0.7) / 2,
+    }
+    local max = 10
+    for i = 1, max do
+      fe.graphics.setColor(color.r, color.g, color.b, i / max)
+      fe.graphics.push()
+      fe.graphics.rotate(.4 * elapsed * (i / max) * math.pi * 2, 1.4, 9.5, 4.9)
+      fe.graphics.drawBox(-50, -50, 100, 100)
+      fe.graphics.pop()
+    end
+    fe.graphics.pop()
+    -- Draw vignette
+    local verts = { 0, 0 }
+    local color = { 0, 0, 0, 0 }
+    local p = 16
+    local rx, ry = fe.graphics.getWidth() * .8, fe.graphics.getHeight() * .8
+    for i = 0, p do
+      local z = (i / p) * math.pi * 2
+      push(verts, math.cos(z) * rx, math.sin(z) * ry)
+      push(color, 0, 0, 0, 1)
+    end 
+    fe.graphics.push()
+    fe.graphics.translate(fe.graphics.getWidth() / 2,
+                          fe.graphics.getHeight() / 2)
+    fe.graphics.draw("trianglefan", verts, nil, color)
+    fe.graphics.pop()
+  end
+xpcall(function() call(fe.onLoad) end, onError)
+src/lib/stb_truetype.h
+z->valid
+e->y0 <= start_point
+cmap
+loca
+head
+glyf
+hhea
+hmtx
+kern
+maxp
+unicode_codepoint <= ttUSHORT(data + endCount + 2*item)
+x+gw < pw
+y+gh < ph
+name
+`Aunknown error
+OpenGL error: %s (%d)
+GL_INVALID_ENUM
+GL_INVALID_VALUE
+GL_INVALID_OPERATION
+GL_STACK_OVERFLOW
+GL_STACK_UNDERFLOW
+GL_OUT_OF_MEMORY
+CRIFF
+WAVE
+bad header data
+missing 'fmt' subchunk
+bad fmt data
+data
+missing 'data' subchunk
+out of memory
+OpenGL32.dll
+glAccum
+glAlphaFunc
+glBegin
+glBitmap
+glBlendFunc
+glCallList
+glCallLists
+glClear
+glClearAccum
+glClearColor
+glClearDepth
+glClearIndex
+glClearStencil
+glClipPlane
+glColor3b
+glColor3bv
+glColor3d
+glColor3dv
+glColor3f
+glColor3fv
+glColor3i
+glColor3iv
+glColor3s
+glColor3sv
+glColor3ub
+glColor3ubv
+glColor3ui
+glColor3uiv
+glColor3us
+glColor3usv
+glColor4b
+glColor4bv
+glColor4d
+glColor4dv
+glColor4f
+glColor4fv
+glColor4i
+glColor4iv
+glColor4s
+glColor4sv
+glColor4ub
+glColor4ubv
+glColor4ui
+glColor4uiv
+glColor4us
+glColor4usv
+glColorMask
+glColorMaterial
+glCopyPixels
+glCullFace
+glDeleteLists
+glDepthFunc
+glDepthMask
+glDepthRange
+glDisable
+glDrawBuffer
+glDrawPixels
+glEdgeFlag
+glEdgeFlagv
+glEnable
+glEnd
+glEndList
+glEvalCoord1d
+glEvalCoord1dv
+glEvalCoord1f
+glEvalCoord1fv
+glEvalCoord2d
+glEvalCoord2dv
+glEvalCoord2f
+glEvalCoord2fv
+glEvalMesh1
+glEvalMesh2
+glEvalPoint1
+glEvalPoint2
+glFeedbackBuffer
+glFinish
+glFlush
+glFogf
+glFogfv
+glFogi
+glFogiv
+glFrontFace
+glFrustum
+glGenLists
+glGetBooleanv
+glGetClipPlane
+glGetDoublev
+glGetError
+glGetFloatv
+glGetIntegerv
+glGetLightfv
+glGetLightiv
+glGetMapdv
+glGetMapfv
+glGetMapiv
+glGetMaterialfv
+glGetMaterialiv
+glGetPixelMapfv
+glGetPixelMapuiv
+glGetPixelMapusv
+glGetPolygonStipple
+glGetString
+glGetTexEnvfv
+glGetTexEnviv
+glGetTexGendv
+glGetTexGenfv
+glGetTexGeniv
+glGetTexImage
+glGetTexLevelParameterfv
+glGetTexLevelParameteriv
+glGetTexParameterfv
+glGetTexParameteriv
+glHint
+glIndexMask
+glIndexd
+glIndexdv
+glIndexf
+glIndexfv
+glIndexi
+glIndexiv
+glIndexs
+glIndexsv
+glInitNames
+glIsEnabled
+glIsList
+glLightModelf
+glLightModelfv
+glLightModeli
+glLightModeliv
+glLightf
+glLightfv
+glLighti
+glLightiv
+glLineStipple
+glLineWidth
+glListBase
+glLoadIdentity
+glLoadMatrixd
+glLoadMatrixf
+glLoadName
+glLogicOp
+glMap1d
+glMap1f
+glMap2d
+glMap2f
+glMapGrid1d
+glMapGrid1f
+glMapGrid2d
+glMapGrid2f
+glMaterialf
+glMaterialfv
+glMateriali
+glMaterialiv
+glMatrixMode
+glMultMatrixd
+glMultMatrixf
+glNewList
+glNormal3b
+glNormal3bv
+glNormal3d
+glNormal3dv
+glNormal3f
+glNormal3fv
+glNormal3i
+glNormal3iv
+glNormal3s
+glNormal3sv
+glOrtho
+glPassThrough
+glPixelMapfv
+glPixelMapuiv
+glPixelMapusv
+glPixelStoref
+glPixelStorei
+glPixelTransferf
+glPixelTransferi
+glPixelZoom
+glPointSize
+glPolygonMode
+glPolygonStipple
+glPopAttrib
+glPopMatrix
+glPopName
+glPushAttrib
+glPushMatrix
+glPushName
+glRasterPos2d
+glRasterPos2dv
+glRasterPos2f
+glRasterPos2fv
+glRasterPos2i
+glRasterPos2iv
+glRasterPos2s
+glRasterPos2sv
+glRasterPos3d
+glRasterPos3dv
+glRasterPos3f
+glRasterPos3fv
+glRasterPos3i
+glRasterPos3iv
+glRasterPos3s
+glRasterPos3sv
+glRasterPos4d
+glRasterPos4dv
+glRasterPos4f
+glRasterPos4fv
+glRasterPos4i
+glRasterPos4iv
+glRasterPos4s
+glRasterPos4sv
+glReadBuffer
+glReadPixels
+glRectd
+glRectdv
+glRectf
+glRectfv
+glRecti
+glRectiv
+glRects
+glRectsv
+glRenderMode
+glRotated
+glRotatef
+glScaled
+glScalef
+glScissor
+glSelectBuffer
+glShadeModel
+glStencilFunc
+glStencilMask
+glStencilOp
+glTexCoord1d
+glTexCoord1dv
+glTexCoord1f
+glTexCoord1fv
+glTexCoord1i
+glTexCoord1iv
+glTexCoord1s
+glTexCoord1sv
+glTexCoord2d
+glTexCoord2dv
+glTexCoord2f
+glTexCoord2fv
+glTexCoord2i
+glTexCoord2iv
+glTexCoord2s
+glTexCoord2sv
+glTexCoord3d
+glTexCoord3dv
+glTexCoord3f
+glTexCoord3fv
+glTexCoord3i
+glTexCoord3iv
+glTexCoord3s
+glTexCoord3sv
+glTexCoord4d
+glTexCoord4dv
+glTexCoord4f
+glTexCoord4fv
+glTexCoord4i
+glTexCoord4iv
+glTexCoord4s
+glTexCoord4sv
+glTexEnvf
+glTexEnvfv
+glTexEnvi
+glTexEnviv
+glTexGend
+glTexGendv
+glTexGenf
+glTexGenfv
+glTexGeni
+glTexGeniv
+glTexImage1D
+glTexImage2D
+glTexParameterf
+glTexParameterfv
+glTexParameteri
+glTexParameteriv
+glTranslated
+glTranslatef
+glVertex2d
+glVertex2dv
+glVertex2f
+glVertex2fv
+glVertex2i
+glVertex2iv
+glVertex2s
+glVertex2sv
+glVertex3d
+glVertex3dv
+glVertex3f
+glVertex3fv
+glVertex3i
+glVertex3iv
+glVertex3s
+glVertex3sv
+glVertex4d
+glVertex4dv
+glVertex4f
+glVertex4fv
+glVertex4i
+glVertex4iv
+glVertex4s
+glVertex4sv
+glViewport
+glAreTexturesResident
+glArrayElement
+glBindTexture
+glColorPointer
+glCopyTexImage1D
+glCopyTexImage2D
+glCopyTexSubImage1D
+glCopyTexSubImage2D
+glDeleteTextures
+glDisableClientState
+glDrawArrays
+glDrawElements
+glEdgeFlagPointer
+glEnableClientState
+glGenTextures
+glGetPointerv
+glIndexPointer
+glIndexub
+glIndexubv
+glInterleavedArrays
+glIsTexture
+glNormalPointer
+glPolygonOffset
+glPopClientAttrib
+glPrioritizeTextures
+glPushClientAttrib
+glTexCoordPointer
+glTexSubImage1D
+glTexSubImage2D
+glVertexPointer
+glBlendColor
+glBlendEquation
+glCopyTexSubImage3D
+glDrawRangeElements
+glTexImage3D
+glTexSubImage3D
+glActiveTexture
+glClientActiveTexture
+glCompressedTexImage1D
+glCompressedTexImage2D
+glCompressedTexImage3D
+glCompressedTexSubImage1D
+glCompressedTexSubImage2D
+glCompressedTexSubImage3D
+glGetCompressedTexImage
+glLoadTransposeMatrixd
+glLoadTransposeMatrixf
+glMultTransposeMatrixd
+glMultTransposeMatrixf
+glMultiTexCoord1d
+glMultiTexCoord1dv
+glMultiTexCoord1f
+glMultiTexCoord1fv
+glMultiTexCoord1i
+glMultiTexCoord1iv
+glMultiTexCoord1s
+glMultiTexCoord1sv
+glMultiTexCoord2d
+glMultiTexCoord2dv
+glMultiTexCoord2f
+glMultiTexCoord2fv
+glMultiTexCoord2i
+glMultiTexCoord2iv
+glMultiTexCoord2s
+glMultiTexCoord2sv
+glMultiTexCoord3d
+glMultiTexCoord3dv
+glMultiTexCoord3f
+glMultiTexCoord3fv
+glMultiTexCoord3i
+glMultiTexCoord3iv
+glMultiTexCoord3s
+glMultiTexCoord3sv
+glMultiTexCoord4d
+glMultiTexCoord4dv
+glMultiTexCoord4f
+glMultiTexCoord4fv
+glMultiTexCoord4i
+glMultiTexCoord4iv
+glMultiTexCoord4s
+glMultiTexCoord4sv
+glSampleCoverage
+glBlendFuncSeparate
+glFogCoordPointer
+glFogCoordd
+glFogCoorddv
+glFogCoordf
+glFogCoordfv
+glMultiDrawArrays
+glMultiDrawElements
+glPointParameterf
+glPointParameterfv
+glPointParameteri
+glPointParameteriv
+glSecondaryColor3b
+glSecondaryColor3bv
+glSecondaryColor3d
+glSecondaryColor3dv
+glSecondaryColor3f
+glSecondaryColor3fv
+glSecondaryColor3i
+glSecondaryColor3iv
+glSecondaryColor3s
+glSecondaryColor3sv
+glSecondaryColor3ub
+glSecondaryColor3ubv
+glSecondaryColor3ui
+glSecondaryColor3uiv
+glSecondaryColor3us
+glSecondaryColor3usv
+glSecondaryColorPointer
+glWindowPos2d
+glWindowPos2dv
+glWindowPos2f
+glWindowPos2fv
+glWindowPos2i
+glWindowPos2iv
+glWindowPos2s
+glWindowPos2sv
+glWindowPos3d
+glWindowPos3dv
+glWindowPos3f
+glWindowPos3fv
+glWindowPos3i
+glWindowPos3iv
+glWindowPos3s
+glWindowPos3sv
+glBeginQuery
+glBindBuffer
+glBufferData
+glBufferSubData
+glDeleteBuffers
+glDeleteQueries
+glEndQuery
+glGenBuffers
+glGenQueries
+glGetBufferParameteriv
+glGetBufferPointerv
+glGetBufferSubData
+glGetQueryObjectiv
+glGetQueryObjectuiv
+glGetQueryiv
+glIsBuffer
+glIsQuery
+glMapBuffer
+glUnmapBuffer
+glAttachShader
+glBindAttribLocation
+glBlendEquationSeparate
+glCompileShader
+glCreateProgram
+glCreateShader
+glDeleteProgram
+glDeleteShader
+glDetachShader
+glDisableVertexAttribArray
+glDrawBuffers
+glEnableVertexAttribArray
+glGetActiveAttrib
+glGetActiveUniform
+glGetAttachedShaders
+glGetAttribLocation
+glGetProgramInfoLog
+glGetProgramiv
+glGetShaderInfoLog
+glGetShaderSource
+glGetShaderiv
+glGetUniformLocation
+glGetUniformfv
+glGetUniformiv
+glGetVertexAttribPointerv
+glGetVertexAttribdv
+glGetVertexAttribfv
+glGetVertexAttribiv
+glIsProgram
+glIsShader
+glLinkProgram
+glShaderSource
+glStencilFuncSeparate
+glStencilMaskSeparate
+glStencilOpSeparate
+glUniform1f
+glUniform1fv
+glUniform1i
+glUniform1iv
+glUniform2f
+glUniform2fv
+glUniform2i
+glUniform2iv
+glUniform3f
+glUniform3fv
+glUniform3i
+glUniform3iv
+glUniform4f
+glUniform4fv
+glUniform4i
+glUniform4iv
+glUniformMatrix2fv
+glUniformMatrix3fv
+glUniformMatrix4fv
+glUseProgram
+glValidateProgram
+glVertexAttrib1d
+glVertexAttrib1dv
+glVertexAttrib1f
+glVertexAttrib1fv
+glVertexAttrib1s
+glVertexAttrib1sv
+glVertexAttrib2d
+glVertexAttrib2dv
+glVertexAttrib2f
+glVertexAttrib2fv
+glVertexAttrib2s
+glVertexAttrib2sv
+glVertexAttrib3d
+glVertexAttrib3dv
+glVertexAttrib3f
+glVertexAttrib3fv
+glVertexAttrib3s
+glVertexAttrib3sv
+glVertexAttrib4Nbv
+glVertexAttrib4Niv
+glVertexAttrib4Nsv
+glVertexAttrib4Nub
+glVertexAttrib4Nubv
+glVertexAttrib4Nuiv
+glVertexAttrib4Nusv
+glVertexAttrib4bv
+glVertexAttrib4d
+glVertexAttrib4dv
+glVertexAttrib4f
+glVertexAttrib4fv
+glVertexAttrib4iv
+glVertexAttrib4s
+glVertexAttrib4sv
+glVertexAttrib4ubv
+glVertexAttrib4uiv
+glVertexAttrib4usv
+glVertexAttribPointer
+glUniformMatrix2x3fv
+glUniformMatrix2x4fv
+glUniformMatrix3x2fv
+glUniformMatrix3x4fv
+glUniformMatrix4x2fv
+glUniformMatrix4x3fv
+glBeginConditionalRender
+glBeginTransformFeedback
+glBindBufferBase
+glBindBufferRange
+glBindFragDataLocation
+glBindFramebuffer
+glBindRenderbuffer
+glBindVertexArray
+glBlitFramebuffer
+glCheckFramebufferStatus
+glClampColor
+glClearBufferfi
+glClearBufferfv
+glClearBufferiv
+glClearBufferuiv
+glColorMaski
+glDeleteFramebuffers
+glDeleteRenderbuffers
+glDeleteVertexArrays
+glDisablei
+glEnablei
+glEndConditionalRender
+glEndTransformFeedback
+glFlushMappedBufferRange
+glFramebufferRenderbuffer
+glFramebufferTexture1D
+glFramebufferTexture2D
+glFramebufferTexture3D
+glFramebufferTextureLayer
+glGenFramebuffers
+glGenRenderbuffers
+glGenVertexArrays
+glGenerateMipmap
+glGetBooleani_v
+glGetFragDataLocation
+glGetFramebufferAttachmentParameteriv
+glGetIntegeri_v
+glGetRenderbufferParameteriv
+glGetStringi
+glGetTexParameterIiv
+glGetTexParameterIuiv
+glGetTransformFeedbackVarying
+glGetUniformuiv
+glGetVertexAttribIiv
+glGetVertexAttribIuiv
+glIsEnabledi
+glIsFramebuffer
+glIsRenderbuffer
+glIsVertexArray
+glMapBufferRange
+glRenderbufferStorage
+glRenderbufferStorageMultisample
+glTexParameterIiv
+glTexParameterIuiv
+glTransformFeedbackVaryings
+glUniform1ui
+glUniform1uiv
+glUniform2ui
+glUniform2uiv
+glUniform3ui
+glUniform3uiv
+glUniform4ui
+glUniform4uiv
+glVertexAttribI1i
+glVertexAttribI1iv
+glVertexAttribI1ui
+glVertexAttribI1uiv
+glVertexAttribI2i
+glVertexAttribI2iv
+glVertexAttribI2ui
+glVertexAttribI2uiv
+glVertexAttribI3i
+glVertexAttribI3iv
+glVertexAttribI3ui
+glVertexAttribI3uiv
+glVertexAttribI4bv
+glVertexAttribI4i
+glVertexAttribI4iv
+glVertexAttribI4sv
+glVertexAttribI4ubv
+glVertexAttribI4ui
+glVertexAttribI4uiv
+glVertexAttribI4usv
+glVertexAttribIPointer
+glCopyBufferSubData
+glDrawArraysInstanced
+glDrawElementsInstanced
+glGetActiveUniformBlockName
+glGetActiveUniformBlockiv
+glGetActiveUniformName
+glGetActiveUniformsiv
+glGetUniformBlockIndex
+glGetUniformIndices
+glPrimitiveRestartIndex
+glTexBuffer
+glUniformBlockBinding
+glClientWaitSync
+glDeleteSync
+glDrawElementsBaseVertex
+glDrawElementsInstancedBaseVertex
+glDrawRangeElementsBaseVertex
+glFenceSync
+glFramebufferTexture
+glGetBufferParameteri64v
+glGetInteger64i_v
+glGetInteger64v
+glGetMultisamplefv
+glGetSynciv
+glIsSync
+glMultiDrawElementsBaseVertex
+glProvokingVertex
+glSampleMaski
+glTexImage2DMultisample
+glTexImage3DMultisample
+glWaitSync
+glBindFragDataLocationIndexed
+glBindSampler
+glColorP3ui
+glColorP3uiv
+glColorP4ui
+glColorP4uiv
+glDeleteSamplers
+glGenSamplers
+glGetFragDataIndex
+glGetQueryObjecti64v
+glGetQueryObjectui64v
+glGetSamplerParameterIiv
+glGetSamplerParameterIuiv
+glGetSamplerParameterfv
+glGetSamplerParameteriv
+glIsSampler
+glMultiTexCoordP1ui
+glMultiTexCoordP1uiv
+glMultiTexCoordP2ui
+glMultiTexCoordP2uiv
+glMultiTexCoordP3ui
+glMultiTexCoordP3uiv
+glMultiTexCoordP4ui
+glMultiTexCoordP4uiv
+glNormalP3ui
+glNormalP3uiv
+glQueryCounter
+glSamplerParameterIiv
+glSamplerParameterIuiv
+glSamplerParameterf
+glSamplerParameterfv
+glSamplerParameteri
+glSamplerParameteriv
+glSecondaryColorP3ui
+glSecondaryColorP3uiv
+glTexCoordP1ui
+glTexCoordP1uiv
+glTexCoordP2ui
+glTexCoordP2uiv
+glTexCoordP3ui
+glTexCoordP3uiv
+glTexCoordP4ui
+glTexCoordP4uiv
+glVertexAttribDivisor
+glVertexAttribP1ui
+glVertexAttribP1uiv
+glVertexAttribP2ui
+glVertexAttribP2uiv
+glVertexAttribP3ui
+glVertexAttribP3uiv
+glVertexAttribP4ui
+glVertexAttribP4uiv
+glVertexP2ui
+glVertexP2uiv
+glVertexP3ui
+glVertexP3uiv
+glVertexP4ui
+glVertexP4uiv
+Mingw runtime failure:
+  VirtualQuery failed for %d bytes at address %p
+  Unknown pseudo relocation protocol version %d.
+  Unknown pseudo relocation bit size %d.
+%s: %s
+Fatal Error
+Out of memory - aborting
+/stdout.txt
+/stderr.txt
+WinMain() error
+DDRAW.DLL
+SDL_STDIO_REDIRECT
+DeleteCriticalSection
+EnterCriticalSection
+ExitProcess
+FreeLibrary
+GetCommandLineA
+GetLastError
+GetModuleFileNameA
+GetModuleHandleA
+GetProcAddress
+GetStartupInfoA
+GetSystemTimeAsFileTime
+InitializeCriticalSection
+LeaveCriticalSection
+LoadLibraryA
+SetUnhandledExceptionFilter
+TlsGetValue
+VirtualProtect
+VirtualQuery
+_mkdir
+_stat
+_utime
+__getmainargs
+__mb_cur_max
+__p__environ
+__p__fmode
+__set_app_type
+_assert
+_cexit
+_iob
+_isctype
+_onexit
+_pctype
+_setmode
+_stat
+abort
+atexit
+atoi
+calloc
+ceil
+exit
+fclose
+fflush
+fgetc
+floor
+fmod
+fopen
+fprintf
+fread
+free
+freopen
+fseek
+ftell
+fwrite
+getenv
+ldexp
+localtime
+malloc
+memcmp
+memcpy
+mktime
+qsort
+realloc
+remove
+setbuf
+setvbuf
+signal
+sprintf
+sqrt
+strcat
+strcmp
+strcpy
+strlen
+strrchr
+strstr
+strtol
+time
+vfprintf
+wglGetProcAddress
+SDL_CloseAudio
+SDL_CreateRGBSurface
+SDL_CreateRGBSurfaceFrom
+SDL_Delay
+SDL_EnableUNICODE
+SDL_FreeSurface
+SDL_GL_SwapBuffers
+SDL_GetError
+SDL_GetKeyName
+SDL_GetTicks
+SDL_Init
+SDL_LockAudio
+SDL_OpenAudio
+SDL_PauseAudio
+SDL_PollEvent
+SDL_Quit
+SDL_SetAlpha
+SDL_SetModuleHandle
+SDL_SetPalette
+SDL_SetVideoMode
+SDL_ShowCursor
+SDL_UnlockAudio
+SDL_UpperBlit
+SDL_WM_SetCaption
+SDL_WarpMouse
+SDL_getenv
+SDL_strlcat
+SDL_strlcpy
+lua51.dll
+lua_type
+luaL_checkinteger
+luaL_error
+lua_getfield
+lua_pushnumber
+lua_call
+lua_settop
+lua_rawgeti
+lua_tonumber
+lua_createtable
+luaL_checkstack
+lua_pushcclosure
+lua_setfield
+lua_pushstring
+luaL_checkudata
+luaL_checklstring
+lua_newuserdata
+lua_setmetatable
+luaL_newmetatable
+lua_pushvalue
+lua_pushnil
+lua_pushfstring
+lua_pushboolean
+lua_pushlstring
+luaL_checknumber
+lua_pushlightuserdata
+lua_settable
+lua_toboolean
+luaL_argerror
+lua_objlen
+lua_rawseti
+lua_close
+luaL_newstate
+luaL_openlibs
+lua_gettop
+lua_pcall
+luaL_loadbuffer
+lua_tolstring
+KERNEL32.dll
+msvcrt.dll
+msvcrt.dll
+OPENGL32.DLL
+SDL.dll
