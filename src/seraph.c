@@ -45,11 +45,11 @@ void onInit() {
   glGenBuffers(1, &vbo);
 
   float vertices[] = {
-  //  Position  Color          Texcoords
-  -1.0f,  1.0f, 1.0f, 1.0f, 1.0f, 0.0f, 0.0f, // Top-left
-   1.0f,  1.0f, 1.0f, 1.0f, 1.0f, 1.0f, 0.0f, // Top-right
-   1.0f, -1.0f, 1.0f, 1.0f, 1.0f, 1.0f, 1.0f, // Bottom-right
-  -1.0f, -1.0f, 1.0f, 1.0f, 1.0f, 0.0f, 1.0f, // Bottom-left
+  //  Position              	Texcoords
+  -1.0f,  1.0f, 1.0f, 1.0f, 	0.0f, 0.0f, 1.0f, 1.0f, // Top-left
+   1.0f,  1.0f, 1.0f, 1.0f, 	1.0f, 0.0f, 1.0f, 1.0f, // Top-right
+   1.0f, -1.0f, 1.0f, 1.0f, 	1.0f, 1.0f, 1.0f, 1.0f, // Bottom-right
+  -1.0f, -1.0f, 1.0f, 1.0f, 	0.0f, 1.0f, 1.0f, 1.0f, // Bottom-left
   };
 
   glBindBuffer(GL_ARRAY_BUFFER, vbo);
@@ -69,9 +69,8 @@ void onInit() {
   shader = shader_fromFile("vert.glsl", "frag.glsl");
   shader_use(shader);
 
-  shader_setAttribute(shader, "position_in",  2, GL_FLOAT, GL_FALSE, 7 * sizeof(float), 0);
-  shader_setAttribute(shader, "color_in",     3, GL_FLOAT, GL_FALSE, 7 * sizeof(float), (void*)(2 * sizeof(float)));
-  shader_setAttribute(shader, "tex_coord_in", 2, GL_FLOAT, GL_FALSE, 7 * sizeof(float), (void*)(5 * sizeof(float)));
+  shader_setAttribute(shader, "sr_Vertex",   4, GL_FLOAT, GL_FALSE, 8 * sizeof(float), 0);
+  shader_setAttribute(shader, "sr_TexCoord", 4, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void*)(4 * sizeof(float)));
 }
 
 void onDraw() {
@@ -83,7 +82,7 @@ void onDraw() {
   sr_drawText(m_graphics_buffer, font, sr_color(200, 200, 200), buf, 8, 6, NULL);
 
   GLint uniform = glGetUniformLocation(shader->program, "elapsed");
-  glUniform1f(uniform, time_getDelta());
+  glUniform1f(uniform, time_getTime());
 }
 
 void onQuit(void) {

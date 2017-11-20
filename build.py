@@ -32,7 +32,8 @@ if platform.system() == "Linux":
 if platform.system() == "Darwin":
   FLAGS += [ os.popen("sdl-config --cflags").read().strip() ]
   EXTRA += [ os.popen("sdl-config --libs").read().strip(),  "-framework OpenGL"  ]
-  DEFINE += [ "SR_MODE_ARGB" ]
+  # DEFINE += [ "SR_MODE_ARGB" ]
+  DEFINE += [ "SR_MODE_RGBA" ]
 
 
 def fmt(fmt, dic):
