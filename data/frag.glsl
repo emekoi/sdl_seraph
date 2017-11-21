@@ -21,6 +21,14 @@ vec4 effect(sampler2D tex, vec2 tc) {
   return res * texture2D(tex, tcg).a;
 }
 
+// void main() {
+//   gl_FragColor = effect(tex, gl_TexCoord[0].xy);
+// }
+
+
 void main() {
-  gl_FragColor = effect(tex, gl_TexCoord[0].xy);
+  float x = gl_TexCoord[0].x;
+  float y = gl_TexCoord[0].y;
+  vec2 tc = vec2(x + sin(y * 30 + elapsed) * 9 / 1000, y);
+  gl_FragColor = effect(tex, tc) + vec4(-.2, -.1, .1, 0);
 }

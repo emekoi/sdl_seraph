@@ -53,9 +53,11 @@ Shader *shader_fromFile(const char *vertex, const char *fragment) {
 
 
 void shader_setAttribute(Shader *self, const char *name, int size, int type, int norm, int s, void *p) {
-  GLint attrib = glGetAttribLocation(self->program, name);
-  glVertexAttribPointer(attrib, size, type, norm, s, p);
-  glEnableVertexAttribArray(attrib);
+  if (self) {
+    GLint attrib = glGetAttribLocation(self->program, name);
+    glVertexAttribPointer(attrib, size, type, norm, s, p);
+    glEnableVertexAttribArray(attrib);
+  }
 }
 
 

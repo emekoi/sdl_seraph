@@ -28,10 +28,11 @@ if platform.system() == "Windows":
 
 if platform.system() == "Linux":
   LINK += [ "SDLmain", "SDL", "GL" ]
+  DEFINE += [ "SR_MODE_RGBA" ]
 
 if platform.system() == "Darwin":
   FLAGS += [ os.popen("sdl-config --cflags").read().strip() ]
-  EXTRA += [ os.popen("sdl-config --libs").read().strip(),  "-framework OpenGL"  ]
+  EXTRA += [ os.popen("sdl-config --libs").read().strip(), "-framework OpenGL" ]
   # DEFINE += [ "SR_MODE_ARGB" ]
   DEFINE += [ "SR_MODE_RGBA" ]
 

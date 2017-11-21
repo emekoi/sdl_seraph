@@ -28,7 +28,7 @@ float bx = 0, by = 0;
 Font *font;
 sr_Buffer *hello;
 Shader *shader;
-GLuint vao, vbo, ebo;
+GLuint vao, vbo, ebo, tex;
 
 
 void onInit() {
@@ -66,11 +66,24 @@ void onInit() {
   glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ebo);
   glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(elements), elements, GL_STATIC_DRAW);
 
+  /* Create a texute to write our image data to */
+  glGenTextures(1, &tex);
+  glBindTexture(GL_TEXTURE_2D, tex);
+
+  /* Configure the texture's render settings */
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_BORDER);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_BORDER);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_BASE_LEVEL, 0);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAX_LEVEL, 0);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_NEAREST);
+
   shader = shader_fromFile("vert.glsl", "frag.glsl");
   shader_use(shader);
 
   shader_setAttribute(shader, "sr_Vertex",   4, GL_FLOAT, GL_FALSE, 8 * sizeof(float), 0);
   shader_setAttribute(shader, "sr_TexCoord", 4, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void*)(4 * sizeof(float)));
+
 }
 
 void onDraw() {
@@ -95,6 +108,7 @@ void onQuit(void) {
   glDeleteBuffers(1, &vbo);
 
   glDeleteVertexArrays(1, &vao);
+  glDeleteTextures(1, &tex);
 
   SDL_Quit(); fs_deinit();
 }
@@ -126,22 +140,10 @@ void __draw(void) {
   graphics_clear(); onDraw();
   sr_Buffer *b = m_graphics_buffer;
 
-  GLuint tex;
-  glGenTextures(1, &tex);
-  glBindTexture(GL_TEXTURE_2D, tex);
-
   glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, b->w, b->h, 0, GL_RGBA, GL_UNSIGNED_BYTE, b->pixels);
-
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_BORDER);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_BORDER);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_BASE_LEVEL, 0);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAX_LEVEL, 0);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_NEAREST);
-
   glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
+  // glDrawArrays(GL_TRIANGLES, 6, 0);
 
-  glDeleteTextures(1, &tex);
 
   SDL_GL_SwapBuffers();
 
