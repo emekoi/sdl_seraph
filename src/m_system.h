@@ -9,9 +9,7 @@
 #ifndef M_SYSTEM_H
 #define M_SYSTEM_H
 
-#include <SDL/SDL.h>
-#include "util.h"
-
 void system_poll();
+int titleAnim(void *data);
 
 #endif

@@ -5,8 +5,31 @@
  * under the terms of the MIT license. See LICENSE for details.
  */
 
+#include <SDL/SDL.h>
+#include "util.h"
 #include "m_system.h"
 #include "m_graphics.h"
+
+int QUITC = 0;
+
+int titleAnim(void *data) {
+  //While the program is not over
+  while(QUITC == 0) {
+    //Do the caption animation
+    SDL_WM_SetCaption("sdl_seraph", NULL);
+    SDL_Delay(250);
+
+    SDL_WM_SetCaption("sdl_seraph.", NULL);
+    SDL_Delay(250);
+
+    SDL_WM_SetCaption("sdl_seraph..", NULL);
+    SDL_Delay(250);
+
+    SDL_WM_SetCaption("sdl_seraph...", NULL);
+    SDL_Delay(250);
+  }
+  return 0;
+}
 
 void system_poll() {
   /* Handle events */
@@ -14,6 +37,7 @@ void system_poll() {
   while (SDL_PollEvent(&e)) {
     switch (e.type) {
       case SDL_QUIT:
+        QUITC = 1;
         QUIT: exit(EXIT_SUCCESS);
         break;
 

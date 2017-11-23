@@ -14,21 +14,12 @@
 #include <string.h>
 #include "seraph.h"
 
-#if SR_MODE_RGBA
-  #define pxfmt SDL_PIXELFORMAT_RGBA32
-#elif SR_MODE_ARGB
-  #define pxfmt SDL_PIXELFORMAT_ARGB32
-#elif SR_MODE_ABGR
-  #define pxfmt SDL_PIXELFORMAT_ABGR32
-#else
-  #define pxfmt SDL_PIXELFORMAT_BGRA32
-#endif
-
 float bx = 0, by = 0;
 Font *font;
 sr_Buffer *hello;
 Shader *shader;
 GLuint vao, vbo, ebo, tex;
+SDL_Thread *ANIM;
 
 
 void onInit() {
@@ -37,53 +28,10 @@ void onInit() {
   font = font_fromEmbedded(16);
   graphics_setClearColor(sr_color(69, 100, 109));
 
-  // Create Vertex Array Object
-  glGenVertexArrays(1, &vao);
-  glBindVertexArray(vao);
-
-  // Create a Vertex Buffer Object and copy the vertex data to it
-  glGenBuffers(1, &vbo);
-
-  float vertices[] = {
-  //  Position              	Texcoords
-  -1.0f,  1.0f, 1.0f, 1.0f, 	0.0f, 0.0f, 1.0f, 1.0f, // Top-left
-   1.0f,  1.0f, 1.0f, 1.0f, 	1.0f, 0.0f, 1.0f, 1.0f, // Top-right
-   1.0f, -1.0f, 1.0f, 1.0f, 	1.0f, 1.0f, 1.0f, 1.0f, // Bottom-right
-  -1.0f, -1.0f, 1.0f, 1.0f, 	0.0f, 1.0f, 1.0f, 1.0f, // Bottom-left
-  };
-
-  glBindBuffer(GL_ARRAY_BUFFER, vbo);
-  glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
-
-  glGenBuffers(1, &ebo);
-
-  GLuint elements[] = {
-    0, 1, 2,
-    2, 3, 0,
-  };
-
-
-  glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ebo);
-  glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(elements), elements, GL_STATIC_DRAW);
-
-  /* Create a texute to write our image data to */
-  glGenTextures(1, &tex);
-  glBindTexture(GL_TEXTURE_2D, tex);
-
-  /* Configure the texture's render settings */
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_BORDER);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_BORDER);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_BASE_LEVEL, 0);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAX_LEVEL, 0);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_NEAREST);
-
   shader = shader_fromFile("vert.glsl", "frag.glsl");
-  shader_use(shader);
-
-  shader_setAttribute(shader, "sr_Vertex",   4, GL_FLOAT, GL_FALSE, 8 * sizeof(float), 0);
-  shader_setAttribute(shader, "sr_TexCoord", 4, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void*)(4 * sizeof(float)));
-
+  graphics_useShader(shader);
+  srand(time_getNow());
+  ANIM = SDL_CreateThread(titleAnim, NULL);
 }
 
 void onDraw() {
@@ -93,6 +41,13 @@ void onDraw() {
   sr_drawBuffer(m_graphics_buffer, hello, 0, 0, NULL, &t0);
   char buf[65]; sprintf(buf, "%d FPS", time_getFps());
   sr_drawText(m_graphics_buffer, font, sr_color(200, 200, 200), buf, 8, 6, NULL);
+
+  int x = rand() % (m_graphics_buffer->w + 1);
+  int y = rand() % (m_graphics_buffer->h + 1);
+  int x1 = rand() % (m_graphics_buffer->w + 1);
+  int y1 = rand() % (m_graphics_buffer->h + 1);
+
+  sr_drawLine(m_graphics_buffer, sr_color(255, 2255, 255), x, y, x1, y1);
 
   GLint uniform = glGetUniformLocation(shader->program, "elapsed");
   glUniform1f(uniform, time_getTime());
@@ -110,10 +65,13 @@ void onQuit(void) {
   glDeleteVertexArrays(1, &vao);
   glDeleteTextures(1, &tex);
 
+  SDL_KillThread(ANIM);
   SDL_Quit(); fs_deinit();
 }
 
 int main(int argc, char **argv) {
+  TRACE("%d\n", glGetError());
+
   #if _WIN32
     setvbuf(stdout, NULL, _IONBF, BUFSIZ);
   #endif
@@ -133,6 +91,44 @@ void __init(void) {
   int width = 512, height = 512;
   graphics_init(width, height, "seraph", 0, 0);
   graphics_setMaxFps(60); fs_error(fs_mount("data"));
+  // Create Vertex Array Object
+  glGenVertexArrays(1, &vao);
+  glBindVertexArray(vao);
+
+  // Create a Vertex Buffer Object and copy the vertex data to it
+  glGenBuffers(1, &vbo);
+
+  float vertices[] = {
+  //  Position                Texcoords
+  -1.0f,  1.0f, 1.0f, 1.0f,   0.0f, 0.0f, 1.0f, 1.0f, // Top-left
+   1.0f,  1.0f, 1.0f, 1.0f,   1.0f, 0.0f, 1.0f, 1.0f, // Top-right
+   1.0f, -1.0f, 1.0f, 1.0f,   1.0f, 1.0f, 1.0f, 1.0f, // Bottom-right
+  -1.0f, -1.0f, 1.0f, 1.0f,   0.0f, 1.0f, 1.0f, 1.0f, // Bottom-left
+  };
+
+  glBindBuffer(GL_ARRAY_BUFFER, vbo);
+  glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
+
+  glGenBuffers(1, &ebo);
+
+  GLuint elements[] = {
+    0, 1, 2,
+    2, 3, 0,
+  };
+
+  glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ebo);
+  glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(elements), elements, GL_STATIC_DRAW);
+
+  glGenTextures(1, &tex);
+  glBindTexture(GL_TEXTURE_2D, tex);
+
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_BORDER);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_BORDER);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_BASE_LEVEL, 0);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAX_LEVEL, 0);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_NEAREST);
+
   onInit();
 }
 
@@ -142,8 +138,6 @@ void __draw(void) {
 
   glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, b->w, b->h, 0, GL_RGBA, GL_UNSIGNED_BYTE, b->pixels);
   glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
-  // glDrawArrays(GL_TRIANGLES, 6, 0);
-
 
   SDL_GL_SwapBuffers();
 

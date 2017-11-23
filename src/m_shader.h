@@ -21,11 +21,6 @@ typedef struct {
   GLuint program;
 } Shader;
 
-// enum {
-//   SCALAR,
-//   VECTOR
-// };
-
 Shader *shader_fromString(const char *vertex, const char *v, const char *fragment, const char *f);
 Shader *shader_fromFile(const char *vertex, const char *fragment);
 void shader_setAttribute(Shader *self, const char *name, int size, int type, int norm, int s, void *p);

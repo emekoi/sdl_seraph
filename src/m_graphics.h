@@ -9,8 +9,6 @@
 #ifndef M_GRAPHICS_H
 #define M_GRAPHICS_H
 
-#include <SDL/SDL.h>
-// #include <SDL2/SDL_opengl.h>
 #include "sera/sera.h"
 
 sr_Buffer *m_graphics_buffer;
@@ -29,5 +27,6 @@ int graphics_setFullscreen(int f);
 int graphics_getFullscreen(void);
 int graphics_setMaxFps(int fps);
 int graphics_getMaxFps(void);
+// void graphics_useShader(Shader *shader);
 
 #endif

@@ -11,13 +11,12 @@
 #include <string.h>
 #include <float.h>
 
-#include <SDL/SDL.h>
 #include "glew/glew.h"
-// #include <SDL2/SDL_opengl.h>
-
+#include <SDL/SDL.h>
 #include "sera/sera.h"
-#include "util.h"
 #include "m_graphics.h"
+#include "m_shader.h"
+#include "util.h"
 
 int m_graphics_maxFps = 60;
 
@@ -25,7 +24,7 @@ static int m_graphics_inited = 0;
 static int m_graphics_fullscreen = 0;
 static int m_graphics_resizable = 0;
 static char *m_graphics_title = "";
-static sr_Pixel m_graphics_clearColor;
+static sr_Pixel m_graphics_clearColor
 
 
 static void resetVideoMode(void) {
@@ -147,4 +146,11 @@ int graphics_setMaxFps(int fps) {
 
 int graphics_getMaxFps(void) {
   return m_graphics_maxFps;
+}
+
+
+ void graphics_useShader(Shader *shader) {
+  shader_use(shader);
+  shader_setAttribute(shader, "sr_Position",  4, GL_FLOAT, GL_FALSE, 8 * sizeof(float), 0);
+  shader_setAttribute(shader, "sr_TexCoord",  4, GL_FLOAT, GL_FALSE, 8 * sizeof(float), (void*)(4 * sizeof(float)));
 }
